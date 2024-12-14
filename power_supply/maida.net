@@ -1,0 +1,33 @@
+* C:\Users\alunos\Desktop\Gagabiro\power_supply\maida.asc
+Q1 IN N001 N002 0 2SCR346P
+Q2 IN N002 N003 0 2SCR346P
+XU1 N006 N007 LM329
+R1 N001 IN 100k
+R2 N003 N002 1k
+R3 N005 N003 10
+XU2 N005 N006 OUT LM317T
+D1 OUT N001 BZX84C6V2L
+D2 N004 OUT 1N4148
+R4 N004 N006 100
+R5 N006 OUT 1.5k
+R6 OUT N007 1k
+R7 N007 N009 36k
+C1 N004 0 1µ
+C2 N008 0 1µ
+R8 N008 OUT 2.7
+V1 IN 0 SINE(370 15 120) AC 1
+R9 OUT 0 1500
+R10 N007 N009 36k
+R11 N009 0 36k
+R12 N009 0 36k
+.model D D
+.lib C:\Users\alunos\Documents\LTspiceXVII\lib\cmp\standard.dio
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\alunos\Documents\LTspiceXVII\lib\cmp\standard.bjt
+.tran 0 2 0 10u
+* Output voltage in a regular LM317 circuit is a function of the ADJ voltage (1.25V between out and ADJ pin)\nA VKL in the ADJ node will equal the voltage in R1 subtracted the voltage drop due to the ADJ current in R2\nto the ADJ voltage. \nOn the other hand, for the maida circuit the ADJ voltage will be added with the zenner voltage and the ADJ\ncurrent with the zenner current. For this circuit, thus, the voltage on the output is:\n \nVOUT=(1,25 + Vzenner) * (1 + R2/R1) + (IADJ + LM329) * R2
+* .step param load 3000 0.1 -100
+.lib Reguladores.lib
+.backanno
+.end

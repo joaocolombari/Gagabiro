@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=R40A Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R40B Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change component parameters: Designator = "R40A" ("R40"); Footprint = "RES_ERJU08J154V"; UniqueID = "\1CPIHXJVE\AMITEGQL" ("\1CPIHXJVE\AMITEGQL")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40B" ("R40"); Footprint = "RES_ERJU08J154V"; UniqueID = "\2CPIHXJVE\AMITEGQL" ("\2CPIHXJVE\AMITEGQL")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47R"; VariantName = "[No Variations]"

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Gagabiro.PrjPcb]
+   Generated File[Gagabiro.TXT]
+   Generated File[Gagabiro.LDP]
+   Generated File[Gagabiro.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 09:11:08 On 09/12/2024

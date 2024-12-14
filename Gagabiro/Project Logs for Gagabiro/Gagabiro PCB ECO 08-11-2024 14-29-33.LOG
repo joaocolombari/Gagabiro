@@ -1,0 +1,456 @@
+Removed Pin From Net: NetName=NetC11A_1 Pin=R28A-1
+Removed Pin From Net: NetName=VAAA Pin=R28A-2
+Removed Pin From Net: NetName=NetC11B_1 Pin=R28B-1
+Removed Pin From Net: NetName=VAAB Pin=R28B-2
+Removed Pin From Net: NetName=NetC12A_2 Pin=R30A-2
+Removed Pin From Net: NetName=NetC12B_2 Pin=R30B-2
+Removed Pin From Net: NetName=GND Pin=R31A-1
+Removed Pin From Net: NetName=GND Pin=R31B-1
+Removed Pin From Net: NetName=GND Pin=R32A-1
+Removed Pin From Net: NetName=NetC12A_2 Pin=R32A-2
+Removed Pin From Net: NetName=GND Pin=R32B-1
+Removed Pin From Net: NetName=NetC12B_2 Pin=R32B-2
+Removed Pin From Net: NetName=NetC12A_1 Pin=R33A-2
+Removed Pin From Net: NetName=NetC12B_1 Pin=R33B-2
+Removed Pin From Net: NetName=NetC14A_2 Pin=R34A-1
+Removed Pin From Net: NetName=NetC14B_2 Pin=R34B-1
+Removed Pin From Net: NetName=NetC13A_2 Pin=R35A-1
+Removed Pin From Net: NetName=NetC14A_2 Pin=R35A-2
+Removed Pin From Net: NetName=NetC13B_2 Pin=R35B-1
+Removed Pin From Net: NetName=NetC14B_2 Pin=R35B-2
+Removed Pin From Net: NetName=NetQ5A_3 Pin=R36A-1
+Removed Pin From Net: NetName=NetQ5B_3 Pin=R36B-1
+Removed Pin From Net: NetName=NetC14A_1 Pin=R37A-1
+Removed Pin From Net: NetName=NetC14B_1 Pin=R37B-1
+Removed Pin From Net: NetName=GND Pin=R38A-1
+Removed Pin From Net: NetName=NetC14A_1 Pin=R38A-2
+Removed Pin From Net: NetName=GND Pin=R38B-1
+Removed Pin From Net: NetName=NetC14B_1 Pin=R38B-2
+Removed Pin From Net: NetName=GND Pin=R39A-1
+Removed Pin From Net: NetName=NetC15A_P Pin=R39A-2
+Removed Pin From Net: NetName=GND Pin=R39B-1
+Removed Pin From Net: NetName=NetC15B_P Pin=R39B-2
+Removed Pin From Net: NetName=NetC10A_2 Pin=R41A-1
+Removed Pin From Net: NetName=NetC10B_2 Pin=R41B-1
+Removed Pin From Net: NetName=V_GRIDA Pin=R42A-1
+Removed Pin From Net: NetName=NetC10A_2 Pin=R42A-2
+Removed Pin From Net: NetName=V_GRIDB Pin=R42B-1
+Removed Pin From Net: NetName=NetC10B_2 Pin=R42B-2
+Removed Pin From Net: NetName=V_GRIDA Pin=R43A-1
+Removed Pin From Net: NetName=NetC11A_2 Pin=R43A-2
+Removed Pin From Net: NetName=V_GRIDB Pin=R43B-1
+Removed Pin From Net: NetName=NetC11B_2 Pin=R43B-2
+Removed Pin From Net: NetName=NetC11A_2 Pin=R44A-1
+Removed Pin From Net: NetName=NetC11B_2 Pin=R44B-1
+Removed Pin From Net: NetName=NetR31A_2 Pin=V2A-7
+Removed Pin From Net: NetName=NetR31B_2 Pin=V2B-7
+Change Component Footprint: Designator=R27A Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R27B Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R28A Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R28B Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R36A Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R36B Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R41A Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R41B Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R42A Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R42B Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R43A Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R43B Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R44A Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R44B Old Footprint=RES_2W New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R29A Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R29B Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R30A Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R30B Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R31A Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R31B Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R32A Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R32B Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R33A Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R33B Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R34A Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R34B Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R35A Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R35B Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R37A Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R37B Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R38A Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R38B Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R39A Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Footprint: Designator=R39B Old Footprint=RES_ERJU08J154V New Footprint=RES_2W_vertical
+Change Component Comment : Designator=R29A Old Comment=1k New Comment=22k
+Change Component Comment : Designator=R29B Old Comment=1k New Comment=22k
+Change Component Comment : Designator=R41A Old Comment=1k New Comment=150K
+Change Component Comment : Designator=R41B Old Comment=1k New Comment=150K
+Change Component Comment : Designator=R30A Old Comment=1k New Comment=220k
+Change Component Comment : Designator=R30B Old Comment=1k New Comment=220k
+Change Component Comment : Designator=R37A Old Comment=1k New Comment=220k
+Change Component Comment : Designator=R37B Old Comment=1k New Comment=220k
+Change Component Comment : Designator=R44A Old Comment=1k New Comment=820R
+Change Component Comment : Designator=R44B Old Comment=1k New Comment=820R
+Change Component Comment : Designator=R38A Old Comment=1M New Comment=82k
+Change Component Comment : Designator=R38B Old Comment=1M New Comment=82k
+Change Component Comment : Designator=R35A Old Comment=10k New Comment=1k
+Change Component Comment : Designator=R35B Old Comment=10k New Comment=1k
+Change Component Comment : Designator=R28A Old Comment=22k New Comment=1k
+Change Component Comment : Designator=R28B Old Comment=22k New Comment=1k
+Change Component Comment : Designator=R34A Old Comment=82k New Comment=1k
+Change Component Comment : Designator=R34B Old Comment=82k New Comment=1k
+Change Component Comment : Designator=R36A Old Comment=150k New Comment=820R
+Change Component Comment : Designator=R36B Old Comment=150k New Comment=820R
+Change Component Comment : Designator=R42A Old Comment=220k New Comment=1k
+Change Component Comment : Designator=R42B Old Comment=220k New Comment=1k
+Change Component Comment : Designator=R43A Old Comment=220k New Comment=1M
+Change Component Comment : Designator=R43B Old Comment=220k New Comment=1M
+Change Component Comment : Designator=R33A Old Comment=820R New Comment=1k
+Change Component Comment : Designator=R33B Old Comment=820R New Comment=1k
+Change Component Comment : Designator=R39A Old Comment=820R New Comment=10k
+Change Component Comment : Designator=R39B Old Comment=820R New Comment=10k
+Change component parameters: Designator = "R28A" ("R28"); Footprint = "RES_2W"; UniqueID = "\1CPIHXJVE\WSRPADRX" ("\1CPIHXJVE\WSRPADRX")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28B" ("R28"); Footprint = "RES_2W"; UniqueID = "\2CPIHXJVE\WSRPADRX" ("\2CPIHXJVE\WSRPADRX")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29A" ("R29"); Footprint = "RES_ERJU08J154V"; UniqueID = "\1CPIHXJVE\XQLJGRSQ" ("\1CPIHXJVE\XQLJGRSQ")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29B" ("R29"); Footprint = "RES_ERJU08J154V"; UniqueID = "\2CPIHXJVE\XQLJGRSQ" ("\2CPIHXJVE\XQLJGRSQ")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30A" ("R30"); Footprint = "RES_ERJU08J154V"; UniqueID = "\1CPIHXJVE\GHZPAALA" ("\1CPIHXJVE\GHZPAALA")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30B" ("R30"); Footprint = "RES_ERJU08J154V"; UniqueID = "\2CPIHXJVE\GHZPAALA" ("\2CPIHXJVE\GHZPAALA")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31A" ("R31"); Footprint = "RES_ERJU08J154V"; UniqueID = "\1CPIHXJVE\BVCRXNFH" ("\1CPIHXJVE\BVCRXNFH")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31B" ("R31"); Footprint = "RES_ERJU08J154V"; UniqueID = "\2CPIHXJVE\BVCRXNFH" ("\2CPIHXJVE\BVCRXNFH")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32A" ("R32"); Footprint = "RES_ERJU08J154V"; UniqueID = "\1CPIHXJVE\SPMMGIBM" ("\1CPIHXJVE\SPMMGIBM")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32B" ("R32"); Footprint = "RES_ERJU08J154V"; UniqueID = "\2CPIHXJVE\SPMMGIBM" ("\2CPIHXJVE\SPMMGIBM")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33A" ("R33"); Footprint = "RES_ERJU08J154V"; UniqueID = "\1CPIHXJVE\RARVEKIV" ("\1CPIHXJVE\RARVEKIV")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33B" ("R33"); Footprint = "RES_ERJU08J154V"; UniqueID = "\2CPIHXJVE\RARVEKIV" ("\2CPIHXJVE\RARVEKIV")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34A" ("R34"); Footprint = "RES_ERJU08J154V"; UniqueID = "\1CPIHXJVE\QGWBQQZY" ("\1CPIHXJVE\QGWBQQZY")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34B" ("R34"); Footprint = "RES_ERJU08J154V"; UniqueID = "\2CPIHXJVE\QGWBQQZY" ("\2CPIHXJVE\QGWBQQZY")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35A" ("R35"); Footprint = "RES_ERJU08J154V"; UniqueID = "\1CPIHXJVE\MNZVETFU" ("\1CPIHXJVE\MNZVETFU")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35B" ("R35"); Footprint = "RES_ERJU08J154V"; UniqueID = "\2CPIHXJVE\MNZVETFU" ("\2CPIHXJVE\MNZVETFU")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36A" ("R36"); Footprint = "RES_2W"; UniqueID = "\1CPIHXJVE\GAZFFUOR" ("\1CPIHXJVE\GAZFFUOR")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "820R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36B" ("R36"); Footprint = "RES_2W"; UniqueID = "\2CPIHXJVE\GAZFFUOR" ("\2CPIHXJVE\GAZFFUOR")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "820R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37A" ("R37"); Footprint = "RES_ERJU08J154V"; UniqueID = "\1CPIHXJVE\IGDMJEKY" ("\1CPIHXJVE\IGDMJEKY")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37B" ("R37"); Footprint = "RES_ERJU08J154V"; UniqueID = "\2CPIHXJVE\IGDMJEKY" ("\2CPIHXJVE\IGDMJEKY")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38A" ("R38"); Footprint = "RES_ERJU08J154V"; UniqueID = "\1CPIHXJVE\IDKIIEUS" ("\1CPIHXJVE\IDKIIEUS")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "82k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38B" ("R38"); Footprint = "RES_ERJU08J154V"; UniqueID = "\2CPIHXJVE\IDKIIEUS" ("\2CPIHXJVE\IDKIIEUS")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "82k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39A" ("R39"); Footprint = "RES_ERJU08J154V"; UniqueID = "\1CPIHXJVE\NHWCNALJ" ("\1CPIHXJVE\NHWCNALJ")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39B" ("R39"); Footprint = "RES_ERJU08J154V"; UniqueID = "\2CPIHXJVE\NHWCNALJ" ("\2CPIHXJVE\NHWCNALJ")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41A" ("R41"); Footprint = "RES_2W"; UniqueID = "\1CPIHXJVE\YTBGJOOW" ("\1CPIHXJVE\YTBGJOOW")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41B" ("R41"); Footprint = "RES_2W"; UniqueID = "\2CPIHXJVE\YTBGJOOW" ("\2CPIHXJVE\YTBGJOOW")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42A" ("R42"); Footprint = "RES_2W"; UniqueID = "\1CPIHXJVE\BJVUCOFL" ("\1CPIHXJVE\BJVUCOFL")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42B" ("R42"); Footprint = "RES_2W"; UniqueID = "\2CPIHXJVE\BJVUCOFL" ("\2CPIHXJVE\BJVUCOFL")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43A" ("R43"); Footprint = "RES_2W"; UniqueID = "\1CPIHXJVE\REAROLFQ" ("\1CPIHXJVE\REAROLFQ")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43B" ("R43"); Footprint = "RES_2W"; UniqueID = "\2CPIHXJVE\REAROLFQ" ("\2CPIHXJVE\REAROLFQ")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44A" ("R44"); Footprint = "RES_2W"; UniqueID = "\1CPIHXJVE\XJHWUTLO" ("\1CPIHXJVE\XJHWUTLO")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "820R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44B" ("R44"); Footprint = "RES_2W"; UniqueID = "\2CPIHXJVE\XJHWUTLO" ("\2CPIHXJVE\XJHWUTLO")
+Change component parameters (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "820R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC10A_2 Pin=R28A-1
+Added Pin To Net: NetName=NetC10B_2 Pin=R28B-1
+Added Pin To Net: NetName=NetC11A_1 Pin=R29A-1
+Added Pin To Net: NetName=VAAA Pin=R29A-2
+Added Pin To Net: NetName=NetC11B_1 Pin=R29B-1
+Added Pin To Net: NetName=VAAB Pin=R29B-2
+Added Pin To Net: NetName=V_GRIDA Pin=R30A-1
+Added Pin To Net: NetName=NetC10A_2 Pin=R30A-2
+Added Pin To Net: NetName=V_GRIDB Pin=R30B-1
+Added Pin To Net: NetName=NetC10B_2 Pin=R30B-2
+Added Pin To Net: NetName=NetC11A_2 Pin=R32A-1
+Added Pin To Net: NetName=V_GRIDA Pin=R32A-2
+Added Pin To Net: NetName=NetC11B_2 Pin=R32B-1
+Added Pin To Net: NetName=V_GRIDB Pin=R32B-2
+Added Pin To Net: NetName=NetC12A_2 Pin=R33A-1
+Added Pin To Net: NetName=NetC12B_2 Pin=R33B-1
+Added Pin To Net: NetName=GND Pin=R34A-2
+Added Pin To Net: NetName=GND Pin=R34B-2
+Added Pin To Net: NetName=NetC11A_2 Pin=R35A-1
+Added Pin To Net: NetName=NetC11B_2 Pin=R35B-1
+Added Pin To Net: NetName=NetC12A_1 Pin=R36A-2
+Added Pin To Net: NetName=NetC12B_1 Pin=R36B-2
+Added Pin To Net: NetName=GND Pin=R37A-1
+Added Pin To Net: NetName=NetC12A_2 Pin=R37A-2
+Added Pin To Net: NetName=GND Pin=R37B-1
+Added Pin To Net: NetName=NetC12B_2 Pin=R37B-2
+Added Pin To Net: NetName=NetC14A_2 Pin=R38A-1
+Added Pin To Net: NetName=NetC14B_2 Pin=R38B-1
+Added Pin To Net: NetName=NetC13A_2 Pin=R39A-1
+Added Pin To Net: NetName=NetC14A_2 Pin=R39A-2
+Added Pin To Net: NetName=NetC13B_2 Pin=R39B-1
+Added Pin To Net: NetName=NetC14B_2 Pin=R39B-2
+Added Pin To Net: NetName=NetQ5A_3 Pin=R41A-1
+Added Pin To Net: NetName=VAAA Pin=R41A-2
+Added Pin To Net: NetName=NetQ5B_3 Pin=R41B-1
+Added Pin To Net: NetName=VAAB Pin=R41B-2
+Added Pin To Net: NetName=NetC14A_1 Pin=R42A-1
+Added Pin To Net: NetName=NetC14B_1 Pin=R42B-1
+Added Pin To Net: NetName=GND Pin=R43A-1
+Added Pin To Net: NetName=NetC14A_1 Pin=R43A-2
+Added Pin To Net: NetName=GND Pin=R43B-1
+Added Pin To Net: NetName=NetC14B_1 Pin=R43B-2
+Added Pin To Net: NetName=GND Pin=R44A-1
+Added Pin To Net: NetName=NetC15A_P Pin=R44A-2
+Added Pin To Net: NetName=GND Pin=R44B-1
+Added Pin To Net: NetName=NetC15B_P Pin=R44B-2
+Added Pin To Net: NetName=NetR31A_2 Pin=V1A-7
+Added Pin To Net: NetName=NetR31B_2 Pin=V1B-7
+Added Pin To Net: NetName=NetR28A_2 Pin=R28A-2
+Added Pin To Net: NetName=NetR28A_2 Pin=U1A-5
+Added Net: Name=NetR28A_2
+Added Pin To Net: NetName=NetR28B_2 Pin=R28B-2
+Added Pin To Net: NetName=NetR28B_2 Pin=U1B-5
+Added Net: Name=NetR28B_2
+Added Pin To Net: NetName=NetR31A_1 Pin=R31A-1
+Added Pin To Net: NetName=NetR31A_1 Pin=R36A-1
+Added Pin To Net: NetName=NetR31A_1 Pin=V1A-1
+Added Net: Name=NetR31A_1
+Added Pin To Net: NetName=NetR31B_1 Pin=R31B-1
+Added Pin To Net: NetName=NetR31B_1 Pin=R36B-1
+Added Pin To Net: NetName=NetR31B_1 Pin=V1B-1
+Added Net: Name=NetR31B_1
+Added Pin To Net: NetName=NetR33A_2 Pin=R33A-2
+Added Pin To Net: NetName=NetR33A_2 Pin=V2A-2
+Added Net: Name=NetR33A_2
+Added Pin To Net: NetName=NetR33B_2 Pin=R33B-2
+Added Pin To Net: NetName=NetR33B_2 Pin=V2B-2
+Added Net: Name=NetR33B_2
+Added Pin To Net: NetName=NetR34A_1 Pin=R34A-1
+Added Pin To Net: NetName=NetR34A_1 Pin=V2A-7
+Added Net: Name=NetR34A_1
+Added Pin To Net: NetName=NetR34B_1 Pin=R34B-1
+Added Pin To Net: NetName=NetR34B_1 Pin=V2B-7
+Added Net: Name=NetR34B_1
+Added Pin To Net: NetName=NetR35A_2 Pin=R35A-2
+Added Pin To Net: NetName=NetR35A_2 Pin=U2A-5
+Added Net: Name=NetR35A_2
+Added Pin To Net: NetName=NetR35B_2 Pin=R35B-2
+Added Pin To Net: NetName=NetR35B_2 Pin=U2B-5
+Added Net: Name=NetR35B_2
+Added Pin To Net: NetName=NetR38A_2 Pin=R38A-2
+Added Pin To Net: NetName=NetR38A_2 Pin=RV2A-1
+Added Net: Name=NetR38A_2
+Added Pin To Net: NetName=NetR38B_2 Pin=R38B-2
+Added Pin To Net: NetName=NetR38B_2 Pin=RV2B-1
+Added Net: Name=NetR38B_2
+Added Pin To Net: NetName=NetR42A_2 Pin=R42A-2
+Added Pin To Net: NetName=NetR42A_2 Pin=V1A-2
+Added Net: Name=NetR42A_2
+Added Pin To Net: NetName=NetR42B_2 Pin=R42B-2
+Added Pin To Net: NetName=NetR42B_2 Pin=V1B-2
+Added Net: Name=NetR42B_2

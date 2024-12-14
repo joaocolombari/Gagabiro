@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Change Component Designator: OldDesignator=*A NewDesignator=*1
+Change Component Designator: OldDesignator=C1A NewDesignator=C5
+Change Component Designator: OldDesignator=C2A NewDesignator=C6
+Change Component Designator: OldDesignator=C3A NewDesignator=C7
+Change Component Designator: OldDesignator=C4A NewDesignator=C8
+Change Component Designator: OldDesignator=D1A NewDesignator=D3
+Change Component Designator: OldDesignator=D2A NewDesignator=D4
+Change Component Designator: OldDesignator=Q1A NewDesignator=Q3
+Change Component Designator: OldDesignator=Q2A NewDesignator=Q4
+Change Component Designator: OldDesignator=R1A NewDesignator=R14
+Change Component Designator: OldDesignator=R2A NewDesignator=R15
+Change Component Designator: OldDesignator=R3A NewDesignator=R16
+Change Component Designator: OldDesignator=R4A NewDesignator=R17
+Change Component Designator: OldDesignator=R5A NewDesignator=R18
+Change Component Designator: OldDesignator=R6A NewDesignator=R19
+Change Component Designator: OldDesignator=R7A NewDesignator=R20
+Change Component Designator: OldDesignator=R8A NewDesignator=R21
+Change Component Designator: OldDesignator=R9A NewDesignator=R22
+Change Component Designator: OldDesignator=R10A NewDesignator=R23
+Change Component Designator: OldDesignator=R11A NewDesignator=R24
+Change Component Designator: OldDesignator=R12A NewDesignator=R25
+Change Component Designator: OldDesignator=R13A NewDesignator=R26
+Change Component Designator: OldDesignator=VR1A NewDesignator=VR2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=Net*1_2 Pin=R17-1
+Added Pin To Net: NetName=Net*1_2 Pin=R20-2
+Added Pin To Net: NetName=Net*1_2 Pin=VR2-1
+Added Net: Name=Net*1_2
+Added Pin To Net: NetName=Net*1_3 Pin=*1-3
+Added Pin To Net: NetName=Net*1_3 Pin=R18-1
+Added Pin To Net: NetName=Net*1_3 Pin=R21-2
+Added Pin To Net: NetName=Net*1_3 Pin=R22-2
+Added Pin To Net: NetName=Net*1_3 Pin=R23-2
+Added Pin To Net: NetName=Net*1_3 Pin=R24-2
+Added Net: Name=Net*1_3
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=Q3-2
+Added Pin To Net: NetName=NetC5_2 Pin=Q4-2
+Added Pin To Net: NetName=NetC5_2 Pin=R14-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=D3-2
+Added Pin To Net: NetName=NetC6_2 Pin=D4-C
+Added Pin To Net: NetName=NetC6_2 Pin=R17-2
+Added Pin To Net: NetName=NetC6_2 Pin=R18-2
+Added Pin To Net: NetName=NetC6_2 Pin=R19-2
+Added Pin To Net: NetName=NetC6_2 Pin=VR2-4
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R19-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=D4-A
+Added Pin To Net: NetName=NetC8_2 Pin=R20-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R14-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q4-1
+Added Pin To Net: NetName=NetQ3_3 Pin=R15-2
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R15-1
+Added Pin To Net: NetName=NetQ4_3 Pin=R16-2
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=VR2-3
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=R22-1
+Added Pin To Net: NetName=NetR21_1 Pin=R25-2
+Added Pin To Net: NetName=NetR21_1 Pin=R26-2
+Added Net: Name=NetR21_1
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component *1 LM329
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component C5 1uF
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component C6 1uF
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component C7 1uF
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component C8 1uF
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component D3 1N4735A
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component D4 1N4001G
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component Q3 TIP50
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component Q4 TIP50_heatsink
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R14 100K
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R15 1k
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R16 10R
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R17 1K5
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R18 1k
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R19 2R7
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R20 100R
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R21 36K
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R22 36K
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R23 NC
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R24 NC
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R25 36K
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component R26 36K
+Added Member To Class: ClassName=Gagabiro_power_supply_maida Member=Component VR2 LM317AMDT/NOPB

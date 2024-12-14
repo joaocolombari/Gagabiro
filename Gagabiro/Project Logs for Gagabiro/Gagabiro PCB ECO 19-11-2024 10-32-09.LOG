@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=MAIDA_OUT1 Pin=C16A-2
+Added Pin To Net: NetName=MAIDA_OUT1 Pin=R27A-2
+Added Pin To Net: NetName=MAIDA_OUT1 Pin=R29A-2
+Added Pin To Net: NetName=MAIDA_OUT1 Pin=R41A-2
+Added Pin To Net: NetName=MAIDA_OUT1 Pin=V1A-6
+Change Net Name : Old Net Name=MAIDA_OUT1 New Net Name=VAA1
+Change Net Name : Old Net Name=MAIDA_OUT2 New Net Name=VAA2
+Added Class: Name=VDD[1..2]
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_3

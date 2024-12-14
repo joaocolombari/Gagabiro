@@ -1,0 +1,24 @@
+Added Component: Designator=TP1A(test_point_1.5mm)
+Added Component: Designator=TP1B(test_point_1.5mm)
+Added Component: Designator=TP2A(test_point_1.5mm)
+Added Component: Designator=TP2B(test_point_1.5mm)
+Added Component: Designator=TP3A(test_point_1.5mm)
+Added Component: Designator=TP3B(test_point_1.5mm)
+Added Component: Designator=TP4A(test_point_1.5mm)
+Added Component: Designator=TP4B(test_point_1.5mm)
+Added Pin To Net: NetName=NetC12A_2 Pin=TP1A-1
+Added Pin To Net: NetName=NetC12B_2 Pin=TP1B-1
+Added Pin To Net: NetName=NetC14A_2 Pin=TP2A-1
+Added Pin To Net: NetName=NetC14B_2 Pin=TP2B-1
+Added Pin To Net: NetName=NetQ5A_3 Pin=TP3A-1
+Added Pin To Net: NetName=NetQ5B_3 Pin=TP3B-1
+Added Pin To Net: NetName=NetQ5A_1 Pin=TP4A-1
+Added Pin To Net: NetName=NetQ5B_1 Pin=TP4B-1
+Added Member To Class: ClassName=U_Gagabiro_main1 Member=Component TP1A (TP1) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main2 Member=Component TP1B (TP1) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main1 Member=Component TP2A (TP2) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main2 Member=Component TP2B (TP2) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main1 Member=Component TP3A (TP3) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main2 Member=Component TP3B (TP3) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main1 Member=Component TP4A (TP4) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main2 Member=Component TP4B (TP4) TP_1.5mm

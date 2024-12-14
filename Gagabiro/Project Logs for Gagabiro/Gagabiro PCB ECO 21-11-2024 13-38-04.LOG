@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=J1-2_1
+Removed Pin From Net: NetName=GND Pin=J1-2_2
+Removed Pin From Net: NetName=GND Pin=J1-3_1
+Removed Pin From Net: NetName=GND Pin=J1-3_2
+Removed Pin From Net: NetName=GND Pin=J2-2_1
+Removed Pin From Net: NetName=GND Pin=J2-2_2
+Removed Pin From Net: NetName=GND Pin=J2-3_1
+Removed Pin From Net: NetName=GND Pin=J2-3_2
+Change Component Footprint: Designator=J1 Old Footprint=SAMTEC_SMA-J-P-H-ST-EM1 New Footprint=2_conn_NC
+Change Component Footprint: Designator=J2 Old Footprint=SAMTEC_SMA-J-P-H-ST-EM1 New Footprint=2_conn_NC
+Change Component Comment : Designator=J1 Old Comment=SMA-J-P-H-ST-EM1 New Comment=2_conn_NC
+Change Component Comment : Designator=J2 Old Comment=SMA-J-P-H-ST-EM1 New Comment=2_conn_NC
+Change Component Designator: OldDesignator=J1 NewDesignator=P8
+Change Component Designator: OldDesignator=J2 NewDesignator=P9
+Change component parameters: Designator = "J1" ("P8"); Footprint = "SAMTEC_SMA-J-P-H-ST-EM1"; UniqueID = "\ONOWFEHT\DUVRTODF" ("\ONOWFEHT\DUVRTODF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S2B-PH-SM4-TB/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("P9"); Footprint = "SAMTEC_SMA-J-P-H-ST-EM1"; UniqueID = "\ONOWFEHT\WFOKCZBX" ("\ONOWFEHT\WFOKCZBX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S2B-PH-SM4-TB/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P9-2
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_7

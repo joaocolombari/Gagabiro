@@ -1,0 +1,63 @@
+Added Component: Designator=V1A(12A_7)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/12AX7/RCA/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "RCA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "12AX7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/12AX7/RCA/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=V1B(12A_7)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/12AX7/RCA/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "RCA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "12AX7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/12AX7/RCA/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=V2A(12A_7)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/12AX7/RCA/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "RCA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "12AX7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/12AX7/RCA/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR31A_1 Pin=V1A-1
+Added Pin To Net: NetName=NetR42A_2 Pin=V1A-2
+Added Pin To Net: NetName=NetC15A_P Pin=V1A-3
+Added Pin To Net: NetName=6V3+ Pin=V1A-4
+Added Pin To Net: NetName=6V3+ Pin=V1A-4
+Added Pin To Net: NetName=6V3+ Pin=V1A-5
+Added Pin To Net: NetName=6V3+ Pin=V1A-5
+Added Pin To Net: NetName=VAA1 Pin=V1A-6
+Added Pin To Net: NetName=NetR31A_2 Pin=V1A-7
+Added Pin To Net: NetName=NetC12A_1 Pin=V1A-8
+Added Pin To Net: NetName=6V3- Pin=V1A-9
+Added Pin To Net: NetName=6V3- Pin=V1A-9
+Added Pin To Net: NetName=6V3- Pin=V1A-9
+Added Pin To Net: NetName=NetR31B_1 Pin=V1B-1
+Added Pin To Net: NetName=NetR42B_2 Pin=V1B-2
+Added Pin To Net: NetName=NetC15B_P Pin=V1B-3
+Added Pin To Net: NetName=6V3+ Pin=V1B-4
+Added Pin To Net: NetName=6V3+ Pin=V1B-4
+Added Pin To Net: NetName=6V3+ Pin=V1B-5
+Added Pin To Net: NetName=6V3+ Pin=V1B-5
+Added Pin To Net: NetName=VAA2 Pin=V1B-6
+Added Pin To Net: NetName=NetR31B_2 Pin=V1B-7
+Added Pin To Net: NetName=NetC12B_1 Pin=V1B-8
+Added Pin To Net: NetName=6V3- Pin=V1B-9
+Added Pin To Net: NetName=6V3- Pin=V1B-9
+Added Pin To Net: NetName=6V3- Pin=V1B-9
+Added Pin To Net: NetName=NetC10A_1 Pin=V2A-1
+Added Pin To Net: NetName=NetR33A_2 Pin=V2A-2
+Added Pin To Net: NetName=NetRV3A_3 Pin=V2A-3
+Added Pin To Net: NetName=6V3+ Pin=V2A-4
+Added Pin To Net: NetName=6V3+ Pin=V2A-4
+Added Pin To Net: NetName=6V3+ Pin=V2A-5
+Added Pin To Net: NetName=6V3+ Pin=V2A-5
+Added Pin To Net: NetName=NetC11A_1 Pin=V2A-6
+Added Pin To Net: NetName=NetR34A_1 Pin=V2A-7
+Added Pin To Net: NetName=NetRV3A_1 Pin=V2A-8
+Added Pin To Net: NetName=6V3- Pin=V2A-9
+Added Pin To Net: NetName=6V3- Pin=V2A-9
+Added Pin To Net: NetName=6V3- Pin=V2A-9
+Added Member To Class: ClassName=U_Gagabiro_main1 Member=Component V1A (V1A) 12AU7
+Added Member To Class: ClassName=U_Gagabiro_main2 Member=Component V1B (V1A) 12AU7
+Added Member To Class: ClassName=U_Gagabiro_main1 Member=Component V2A (V2A) 12AU7

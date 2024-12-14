@@ -1,0 +1,99 @@
+Added Component: Designator=C16(CAP_panassonic_100n_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RES_2W)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R42(RES_2W)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Added Component: Designator=R43(RES_2W)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RES_2W)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=U1(VALVE-OCTAL)
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6L6GC"; VariantName = "[No Variations]"
+Added Component: Designator=U2(VALVE-OCTAL)
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6L6GC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-N
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=GND Pin=RV1-1
+Added Pin To Net: NetName=GND Pin=RV1-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=V1-9
+Added Pin To Net: NetName=GND Pin=V2-9
+Added Pin To Net: NetName=6V3 Pin=V1-4
+Added Pin To Net: NetName=6V3 Pin=V1-5
+Added Pin To Net: NetName=6V3 Pin=V2-4
+Added Pin To Net: NetName=6V3 Pin=V2-5
+Added Net: Name=6V3
+Added Pin To Net: NetName=A1 Pin=U1-3
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=U2-3
+Added Net: Name=A2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R41-1
+Added Pin To Net: NetName=NetC10_2 Pin=R42-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=R43-2
+Added Pin To Net: NetName=NetC11_2 Pin=R44-1
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Pin To Net: NetName=NetR41_2 Pin=U1-5
+Added Net: Name=NetR41_2
+Added Pin To Net: NetName=NetR44_2 Pin=R44-2
+Added Pin To Net: NetName=NetR44_2 Pin=U2-5
+Added Net: Name=NetR44_2
+Added Pin To Net: NetName=S1 Pin=U1-4
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=U2-4
+Added Net: Name=S2
+Added Pin To Net: NetName=V_GRID Pin=R42-1
+Added Pin To Net: NetName=V_GRID Pin=R43-1
+Added Net: Name=V_GRID
+Added Pin To Net: NetName=V_IN Pin=C13-1
+Added Net: Name=V_IN
+Added Pin To Net: NetName=VAA Pin=C16-2
+Added Pin To Net: NetName=VAA Pin=R27-2
+Added Pin To Net: NetName=VAA Pin=R28-2
+Added Pin To Net: NetName=VAA Pin=V1-6
+Added Net: Name=VAA
+Added Member To Class: ClassName=Gagabiro_main Member=Component C16 100nF
+Added Member To Class: ClassName=Gagabiro_main Member=Component R41 1k
+Added Member To Class: ClassName=Gagabiro_main Member=Component R42 220k
+Added Member To Class: ClassName=Gagabiro_main Member=Component R43 220k
+Added Member To Class: ClassName=Gagabiro_main Member=Component R44 1k
+Added Member To Class: ClassName=Gagabiro_main Member=Component U1 6L6GC
+Added Member To Class: ClassName=Gagabiro_main Member=Component U2 6L6GC
+Added Rule: Name=Schematic Supply Nets_1

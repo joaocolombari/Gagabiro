@@ -1,0 +1,59 @@
+Circuit: * C:\Users\alunos\Desktop\Gagabiro\EL84 - Copia\POWER_AMP_IC_rework_el84_transient_sine_transformer.asc
+
+Questionable use of curly braces in "b§egs gs 0 v=limit{v(s,k)/19+v(g,k)+v(a,k)/1400,0,1e6} "
+    Error: undefined symbol in: "[v](s,k)/19+v(g,k)+v(a,k)/1400,0,1e6"
+Questionable use of curly braces in "b§gs s k i=2.0e-3*v(sc)*limit{v(s,k),0,10}/10 "
+    Error: undefined symbol in: "[v](s,k),0,10"
+Questionable use of curly braces in "b§gg g k i=pwr(limit{v(g,k)+1,0,1e6},1.5)*50e-6 "
+    Error: undefined symbol in: "[v](g,k)+1,0,1e6"
+Questionable use of curly braces in "b§egs gs 0 v=limit{v(s,k)/19+v(g,k)+v(a,k)/1400,0,1e6} "
+    Error: undefined symbol in: "[v](s,k)/19+v(g,k)+v(a,k)/1400,0,1e6"
+Questionable use of curly braces in "b§gs s k i=2.0e-3*v(sc)*limit{v(s,k),0,10}/10 "
+    Error: undefined symbol in: "[v](s,k),0,10"
+Questionable use of curly braces in "b§gg g k i=pwr(limit{v(g,k)+1,0,1e6},1.5)*50e-6 "
+    Error: undefined symbol in: "[v](g,k)+1,0,1e6"
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 1e-010 +++++to 6.01953e-010
+Heightened Def Con from 6.01953e-010 to 7.26953e-010
+N-Period=1
+Fourier components of V(out)
+DC component:-2.78551e-005
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	1.000e+03	1.326e+01	1.000e+00	  179.32°	    0.00°
+    2   	2.000e+03	2.822e-03	2.128e-04	   91.78°	  -87.54°
+    3   	3.000e+03	2.951e-01	2.225e-02	  178.31°	   -1.01°
+    4   	4.000e+03	4.631e-04	3.492e-05	  100.77°	  -78.55°
+    5   	5.000e+03	1.001e-01	7.546e-03	 -178.67°	 -357.99°
+    6   	6.000e+03	6.393e-05	4.821e-06	   68.47°	 -110.86°
+    7   	7.000e+03	3.989e-02	3.008e-03	  179.04°	   -0.29°
+    8   	8.000e+03	6.497e-05	4.899e-06	   -7.11°	 -186.44°
+    9   	9.000e+03	4.961e-03	3.741e-04	   -8.90°	 -188.23°
+   10   	1.000e+04	9.228e-05	6.959e-06	 -121.13°	 -300.46°
+Total Harmonic Distortion: 2.369531%(2.374251%)
+
+
+
+SPICE directive ".backanno" has no meaning for netlists.
+output_power: AVG(i(rload)*v(out))=-10.9964 FROM 0 TO 0.01
+
+
+Date: Tue Nov 12 13:57:27 2024
+Total elapsed time: 48.958 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3218574
+traniter = 3218560
+tranpoints = 685883
+accept = 530367
+rejected = 155523
+matrix size = 79
+fillins = 102
+solver = Normal
+Thread vector: 22.8/9.1[2] 2.8/2.2[2] 4.2/2.6[2] 0.6/1.1[1]  2592/500
+Matrix Compiler1: 13.44 KB object code size  3.7/1.4/[1.2]
+Matrix Compiler2: 8.43 KB object code size  0.9/1.0/[0.7]
+

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=HS1 Old Footprint=heatsink New Footprint=heatsink_HS_6835
+Added Component: Designator=HS2(heatsink_HS_6835)
+Added Member To Class: ClassName=U_Gagabiro_mechanical Member=Component HS2 Heatsink

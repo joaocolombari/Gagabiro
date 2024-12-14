@@ -1,0 +1,51 @@
+Stray ".ends" card: .ends lm337
+Circuit: * C:\Users\alunos\Desktop\Gagabiro\power_supply\maida.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+vernier = 0.5
+vernier = 0.25
+Gmin = 0.0643312
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 0.0273053
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 0.00725606
+vernier = 1
+Gmin = 0.000965423
+Gmin = 0.000103662
+Gmin = 1.11306e-005
+Gmin = 1.19514e-006
+Gmin = 1.28327e-007
+Gmin = 1.3779e-008
+Gmin = 1.47951e-009
+Gmin = 1.58861e-010
+Gmin = 1.70576e-011
+Gmin = 1.83154e-012
+Gmin = 1.9666e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Changing Tseed to 1e-009
+
+Date: Fri Nov 01 10:07:19 2024
+Total elapsed time: 6.557 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 454426
+traniter = 453469
+tranpoints = 198286
+accept = 198284
+rejected = 1
+matrix size = 38
+fillins = 74
+solver = Normal
+Matrix Compiler1: 7.52 KB object code size  1.6/0.9/[0.5]
+Matrix Compiler2: 4.52 KB object code size  0.6/0.6/[0.4]
+

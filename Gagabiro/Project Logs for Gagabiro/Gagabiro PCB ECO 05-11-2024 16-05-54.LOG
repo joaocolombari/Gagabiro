@@ -1,0 +1,123 @@
+Removed Pin From Net: NetName=Net*_2 Pin=*-2
+Removed Pin From Net: NetName=Net*_3 Pin=*-3
+Removed Member From Class: ClassName=Gagabiro_power_supply_maida Member=*
+Change Component Designator: OldDesignator=* NewDesignator=*_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=*A NewDesignator=*_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=C1 NewDesignator=C1_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=C1A NewDesignator=C1_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=C2 NewDesignator=C2_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=C2A NewDesignator=C2_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=C3 NewDesignator=C3_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=C3A NewDesignator=C3_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=C4 NewDesignator=C4_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=C4A NewDesignator=C4_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=D1A NewDesignator=D1_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=D2 NewDesignator=D2_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=D2A NewDesignator=D2_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q1_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=Q1A NewDesignator=Q1_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q2_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=Q2A NewDesignator=Q2_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R1 NewDesignator=R1_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R1A NewDesignator=R1_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R2 NewDesignator=R2_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R2A NewDesignator=R2_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R3 NewDesignator=R3_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R3A NewDesignator=R3_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R4 NewDesignator=R4_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R4A NewDesignator=R4_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R5 NewDesignator=R5_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R5A NewDesignator=R5_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R6 NewDesignator=R6_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R6A NewDesignator=R6_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R7 NewDesignator=R7_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R7A NewDesignator=R7_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R8 NewDesignator=R8_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R8A NewDesignator=R8_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R9 NewDesignator=R9_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R9A NewDesignator=R9_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R10 NewDesignator=R10_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R10A NewDesignator=R10_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R11 NewDesignator=R11_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R11A NewDesignator=R11_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R12 NewDesignator=R12_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R12A NewDesignator=R12_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=R13 NewDesignator=R13_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=R13A NewDesignator=R13_U_Gagabiro_power_supply_maida2
+Change Component Designator: OldDesignator=VR1 NewDesignator=VR1_U_Gagabiro_power_supply_maida1
+Change Component Designator: OldDesignator=VR1A NewDesignator=VR1_U_Gagabiro_power_supply_maida2
+Added Pin To Net: NetName=Net*_2 Pin=*_U_Gagabiro_power_supply_maida1-2
+Added Pin To Net: NetName=Net*_3 Pin=*_U_Gagabiro_power_supply_maida1-3
+Added Pin To Net: NetName=GND Pin=C2_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=GND Pin=C3_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=GND Pin=C4_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=GND Pin=R10_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=GND Pin=R11_U_Gagabiro_power_supply_maida2-1
+Change Net Name : Old Net Name=MAIDA_IN New Net Name=MAIDA_IN_U_Gagabiro_power_supply_maida1
+Change Net Name : Old Net Name=MAIDA_OUT New Net Name=MAIDA_OUT_U_Gagabiro_power_supply_maida1
+Change Net Name : Old Net Name=Net*_2 New Net Name=Net*_U_Gagabiro_power_supply_maida1_2
+Change Net Name : Old Net Name=Net*_3 New Net Name=Net*_U_Gagabiro_power_supply_maida1_3
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC1_U_Gagabiro_power_supply_maida1_2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC2_U_Gagabiro_power_supply_maida1_2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD1_U_Gagabiro_power_supply_maida1_1
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetQ1_U_Gagabiro_power_supply_maida1_3
+Change Net Name : Old Net Name=NetQ2_3 New Net Name=NetQ2_U_Gagabiro_power_supply_maida1_3
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR3_U_Gagabiro_power_supply_maida1_1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR8_U_Gagabiro_power_supply_maida1_1
+Added Pin To Net: NetName=MAIDA_IN_U_Gagabiro_power_supply_maida2 Pin=C4_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=MAIDA_IN_U_Gagabiro_power_supply_maida2 Pin=Q1_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=MAIDA_IN_U_Gagabiro_power_supply_maida2 Pin=Q2_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=MAIDA_IN_U_Gagabiro_power_supply_maida2 Pin=R1_U_Gagabiro_power_supply_maida2-1
+Added Net: Name=MAIDA_IN_U_Gagabiro_power_supply_maida2
+Added Pin To Net: NetName=MAIDA_OUT_U_Gagabiro_power_supply_maida2 Pin=C3_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=MAIDA_OUT_U_Gagabiro_power_supply_maida2 Pin=D1_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=MAIDA_OUT_U_Gagabiro_power_supply_maida2 Pin=D2_U_Gagabiro_power_supply_maida2-C
+Added Pin To Net: NetName=MAIDA_OUT_U_Gagabiro_power_supply_maida2 Pin=R4_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=MAIDA_OUT_U_Gagabiro_power_supply_maida2 Pin=R5_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=MAIDA_OUT_U_Gagabiro_power_supply_maida2 Pin=R6_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=MAIDA_OUT_U_Gagabiro_power_supply_maida2 Pin=VR1_U_Gagabiro_power_supply_maida2-4
+Added Net: Name=MAIDA_OUT_U_Gagabiro_power_supply_maida2
+Added Pin To Net: NetName=Net*_U_Gagabiro_power_supply_maida2_2 Pin=*_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_power_supply_maida2_2 Pin=R4_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=Net*_U_Gagabiro_power_supply_maida2_2 Pin=R7_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_power_supply_maida2_2 Pin=VR1_U_Gagabiro_power_supply_maida2-1
+Added Net: Name=Net*_U_Gagabiro_power_supply_maida2_2
+Added Pin To Net: NetName=Net*_U_Gagabiro_power_supply_maida2_3 Pin=*_U_Gagabiro_power_supply_maida2-3
+Added Pin To Net: NetName=Net*_U_Gagabiro_power_supply_maida2_3 Pin=R5_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=Net*_U_Gagabiro_power_supply_maida2_3 Pin=R8_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_power_supply_maida2_3 Pin=R9_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_power_supply_maida2_3 Pin=R10_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_power_supply_maida2_3 Pin=R11_U_Gagabiro_power_supply_maida2-2
+Added Net: Name=Net*_U_Gagabiro_power_supply_maida2_3
+Added Pin To Net: NetName=NetC1_U_Gagabiro_power_supply_maida2_2 Pin=C1_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=NetC1_U_Gagabiro_power_supply_maida2_2 Pin=R6_U_Gagabiro_power_supply_maida2-1
+Added Net: Name=NetC1_U_Gagabiro_power_supply_maida2_2
+Added Pin To Net: NetName=NetC2_U_Gagabiro_power_supply_maida2_2 Pin=C2_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=NetC2_U_Gagabiro_power_supply_maida2_2 Pin=D2_U_Gagabiro_power_supply_maida2-A
+Added Pin To Net: NetName=NetC2_U_Gagabiro_power_supply_maida2_2 Pin=R7_U_Gagabiro_power_supply_maida2-1
+Added Net: Name=NetC2_U_Gagabiro_power_supply_maida2_2
+Added Pin To Net: NetName=NetD1_U_Gagabiro_power_supply_maida2_1 Pin=D1_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=NetD1_U_Gagabiro_power_supply_maida2_1 Pin=Q1_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=NetD1_U_Gagabiro_power_supply_maida2_1 Pin=R1_U_Gagabiro_power_supply_maida2-2
+Added Net: Name=NetD1_U_Gagabiro_power_supply_maida2_1
+Added Pin To Net: NetName=NetQ1_U_Gagabiro_power_supply_maida2_3 Pin=Q1_U_Gagabiro_power_supply_maida2-3
+Added Pin To Net: NetName=NetQ1_U_Gagabiro_power_supply_maida2_3 Pin=Q2_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=NetQ1_U_Gagabiro_power_supply_maida2_3 Pin=R2_U_Gagabiro_power_supply_maida2-2
+Added Net: Name=NetQ1_U_Gagabiro_power_supply_maida2_3
+Added Pin To Net: NetName=NetQ2_U_Gagabiro_power_supply_maida2_3 Pin=Q2_U_Gagabiro_power_supply_maida2-3
+Added Pin To Net: NetName=NetQ2_U_Gagabiro_power_supply_maida2_3 Pin=R2_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=NetQ2_U_Gagabiro_power_supply_maida2_3 Pin=R3_U_Gagabiro_power_supply_maida2-2
+Added Net: Name=NetQ2_U_Gagabiro_power_supply_maida2_3
+Added Pin To Net: NetName=NetR3_U_Gagabiro_power_supply_maida2_1 Pin=R3_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=NetR3_U_Gagabiro_power_supply_maida2_1 Pin=VR1_U_Gagabiro_power_supply_maida2-3
+Added Net: Name=NetR3_U_Gagabiro_power_supply_maida2_1
+Added Pin To Net: NetName=NetR8_U_Gagabiro_power_supply_maida2_1 Pin=R8_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=NetR8_U_Gagabiro_power_supply_maida2_1 Pin=R9_U_Gagabiro_power_supply_maida2-1
+Added Pin To Net: NetName=NetR8_U_Gagabiro_power_supply_maida2_1 Pin=R12_U_Gagabiro_power_supply_maida2-2
+Added Pin To Net: NetName=NetR8_U_Gagabiro_power_supply_maida2_1 Pin=R13_U_Gagabiro_power_supply_maida2-2
+Added Net: Name=NetR8_U_Gagabiro_power_supply_maida2_1
+Change Class Name : Old Net Name=Gagabiro_power_supply_maida New Net Name=U_Gagabiro_power_supply_maida1
+Added Class: Name=U_Gagabiro_power_supply_maida2
+Added Class: Name=Gagabiro_power_supply_maida
+Added Member To Class: ClassName=U_Gagabiro_power_supply_maida1 Member=Component *_U_Gagabiro_power_supply_maida1 (*) LM329

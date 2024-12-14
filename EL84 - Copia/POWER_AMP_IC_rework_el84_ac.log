@@ -1,0 +1,38 @@
+Circuit: * C:\Users\alunos\Desktop\Gagabiro\EL84\POWER_AMP_IC_rework_el84_ac.asc
+
+Direct Newton iteration for .op point succeeded.
+
+f20hz: v(out)=(26.739dB,-105°) at 20
+f30hz: v(out)=(26.739dB,-105°) at 20
+f40hz: v(out)=(26.739dB,-105°) at 20
+f50hz: v(out)=(28.8666dB,-147.997°) at 50.05
+f70hz: v(out)=(29.0956dB,-156.991°) at 70
+f100hz: v(out)=(29.2207dB,-163.899°) at 100
+f200hz: v(out)=(29.3121dB,-172.128°) at 200
+f500hz: v(out)=(29.3375dB,-177.418°) at 500
+f700hz: v(out)=(29.3394dB,-178.62°) at 700
+f1000hz: v(out)=(29.3398dB,-179.726°) at 1000
+f2000hz: v(out)=(29.3352dB,178.105°) at 2000
+f2122hz: v(out)=(29.3343dB,177.893°) at 2122
+f5000hz: v(out)=(29.297dB,173.567°) at 5000
+f7000hz: v(out)=(29.2534dB,170.798°) at 7000
+f10000hz: v(out)=(29.1623dB,166.765°) at 10000
+f20000hz: v(out)=(28.6613dB,154.166°) at 20000
+
+
+Date: Thu Oct 03 12:46:46 2024
+Total elapsed time: 0.107 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 14
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 68
+fillins = 71
+solver = Normal
+Matrix Compiler1:     556 opcodes
+Matrix Compiler2: 7.30 KB object code size

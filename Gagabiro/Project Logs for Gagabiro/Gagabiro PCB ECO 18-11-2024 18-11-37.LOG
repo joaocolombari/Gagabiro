@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC11A_2 Pin=R32A-1
+Removed Pin From Net: NetName=VGG1 Pin=R32A-2
+Removed Pin From Net: NetName=NetC11B_2 Pin=R32B-1
+Removed Pin From Net: NetName=VGG2 Pin=R32B-2
+Added Pin To Net: NetName=VGG1 Pin=R32A-1
+Added Pin To Net: NetName=NetC11A_2 Pin=R32A-2
+Added Pin To Net: NetName=VGG2 Pin=R32B-1
+Added Pin To Net: NetName=NetC11B_2 Pin=R32B-2

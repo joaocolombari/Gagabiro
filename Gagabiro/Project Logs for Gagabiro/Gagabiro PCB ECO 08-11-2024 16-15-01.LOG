@@ -1,0 +1,24 @@
+Added Component: Designator=U2A(VALVE-OCTAL)
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6L6GC"; VariantName = "[No Variations]"
+Added Component: Designator=U2B(VALVE-OCTAL)
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6L6GC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A2A Pin=P1-2
+Added Pin To Net: NetName=S2A Pin=P1-4
+Added Pin To Net: NetName=A2B Pin=P2-2
+Added Pin To Net: NetName=S2B Pin=P2-4
+Added Pin To Net: NetName=6V3+A Pin=U2A-2
+Added Pin To Net: NetName=NetR35A_2 Pin=U2A-5
+Added Pin To Net: NetName=6V3-A Pin=U2A-7
+Added Pin To Net: NetName=GND Pin=U2A-8
+Added Pin To Net: NetName=6V3+B Pin=U2B-2
+Added Pin To Net: NetName=NetR35B_2 Pin=U2B-5
+Added Pin To Net: NetName=6V3-B Pin=U2B-7
+Added Pin To Net: NetName=GND Pin=U2B-8
+Add Net: Net with name "A2A" already exists
+Add Net: Net with name "A2B" already exists
+Add Net: Net with name "S2A" already exists
+Add Net: Net with name "S2B" already exists
+Added Member To Class: ClassName=U_Gagabiro_main1 Member=Component U2A (U2A) 6L6GC
+Added Member To Class: ClassName=U_Gagabiro_main2 Member=Component U2B (U2A) 6L6GC

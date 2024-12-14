@@ -1,0 +1,3 @@
+Added Component: Designator=TP2B(test_point_1.5mm)
+Added Pin To Net: NetName=NetC14B_2 Pin=TP2B-1
+Added Member To Class: ClassName=U_Gagabiro_main2 Member=Component TP2B (TP2) TP_1.5mm

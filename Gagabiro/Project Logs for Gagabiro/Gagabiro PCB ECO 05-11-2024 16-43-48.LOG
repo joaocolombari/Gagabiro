@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=MAIDA_IN Pin=C5-2
+Added Pin To Net: NetName=MAIDA_OUT Pin=C6-2
+Added Pin To Net: NetName=MAIDA_OUT Pin=D3-2
+Added Pin To Net: NetName=MAIDA_OUT Pin=D4-C
+Added Pin To Net: NetName=MAIDA_IN Pin=Q3-2
+Added Pin To Net: NetName=MAIDA_IN Pin=Q4-2
+Added Pin To Net: NetName=MAIDA_IN Pin=R14-1
+Added Pin To Net: NetName=MAIDA_OUT Pin=R17-2
+Added Pin To Net: NetName=MAIDA_OUT Pin=R18-2
+Added Pin To Net: NetName=MAIDA_OUT Pin=R19-2
+Added Pin To Net: NetName=MAIDA_OUT Pin=VR2-4

@@ -1,0 +1,16 @@
+Change Net Name : Old Net Name=A1A New Net Name=A11
+Change Net Name : Old Net Name=A1B New Net Name=A12
+Change Net Name : Old Net Name=A2A New Net Name=A21
+Change Net Name : Old Net Name=A2B New Net Name=A22
+Change Net Name : Old Net Name=S1A New Net Name=S11
+Change Net Name : Old Net Name=S1B New Net Name=S12
+Change Net Name : Old Net Name=S2A New Net Name=S21
+Change Net Name : Old Net Name=S2B New Net Name=S22
+Added Member To Class: ClassName=A1[1..2] Member=Element[0]: A1
+Added Member To Class: ClassName=A1[1..2] Member=Element[1]: A1
+Added Member To Class: ClassName=A2[1..2] Member=Element[0]: A2
+Added Member To Class: ClassName=A2[1..2] Member=Element[1]: A2
+Added Member To Class: ClassName=S1[1..2] Member=Element[0]: S1
+Added Member To Class: ClassName=S1[1..2] Member=Element[1]: S1
+Added Member To Class: ClassName=S2[1..2] Member=Element[0]: S2
+Added Member To Class: ClassName=S2[1..2] Member=Element[1]: S2

@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=VGG Pin=C17A-2
+Added Pin To Net: NetName=VGG Pin=C17B-2
+Added Pin To Net: NetName=VGG Pin=R30A-1
+Added Pin To Net: NetName=VGG Pin=R30B-1
+Added Pin To Net: NetName=VGG Pin=R32A-1
+Added Pin To Net: NetName=VGG Pin=R32B-1
+Added Rule: Name=Schematic Supply Nets_2

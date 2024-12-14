@@ -1,0 +1,38 @@
+Added Component: Designator=TP2(test_point_1.5mm)
+Added Component: Designator=TP5(test_point_1.5mm)
+Added Component: Designator=TP6(test_point_1.5mm)
+Added Component: Designator=TP7(test_point_1.5mm)
+Added Component: Designator=TP8(test_point_1.5mm)
+Added Component: Designator=TP9A(test_point_1.5mm)
+Added Component: Designator=TP9B(test_point_1.5mm)
+Added Component: Designator=TP10A(test_point_1.5mm)
+Added Component: Designator=TP10B(test_point_1.5mm)
+Added Component: Designator=TP11A(test_point_1.5mm)
+Added Component: Designator=TP11B(test_point_1.5mm)
+Added Component: Designator=TP12A(test_point_1.5mm)
+Added Component: Designator=TP12B(test_point_1.5mm)
+Added Pin To Net: NetName=MAIDA_GRID_IN Pin=TP5-1
+Added Pin To Net: NetName=VAA1 Pin=TP6-1
+Added Pin To Net: NetName=VAA2 Pin=TP7-1
+Added Pin To Net: NetName=VGG Pin=TP8-1
+Added Pin To Net: NetName=NetC10A_2 Pin=TP9A-1
+Added Pin To Net: NetName=NetC10B_2 Pin=TP9B-1
+Added Pin To Net: NetName=NetR49A_1 Pin=TP10A-1
+Added Pin To Net: NetName=NetR49B_1 Pin=TP10B-1
+Added Pin To Net: NetName=NetR50A_1 Pin=TP11A-1
+Added Pin To Net: NetName=NetR50B_1 Pin=TP11B-1
+Added Pin To Net: NetName=NetC11A_2 Pin=TP12A-1
+Added Pin To Net: NetName=NetC11B_2 Pin=TP12B-1
+Added Member To Class: ClassName=U_Gagabiro_power_supply Member=Component TP2 TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_power_supply Member=Component TP5 TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_power_supply Member=Component TP6 TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_power_supply Member=Component TP7 TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_power_supply Member=Component TP8 TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main1 Member=Component TP9A (TP9) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main2 Member=Component TP9B (TP9) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main1 Member=Component TP10A (TP10) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main2 Member=Component TP10B (TP10) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main1 Member=Component TP11A (TP11) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main2 Member=Component TP11B (TP11) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main1 Member=Component TP12A (TP12) TP_1.5mm
+Added Member To Class: ClassName=U_Gagabiro_main2 Member=Component TP12B (TP12) TP_1.5mm

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P2-4
+Change Net Name : Old Net Name=A1 New Net Name=A1A
+Change Net Name : Old Net Name=A2 New Net Name=A1B
+Change Net Name : Old Net Name=S1 New Net Name=S1A
+Change Net Name : Old Net Name=S2 New Net Name=S1B
+Add Net: Net with name "A2A" already exists
+Add Net: Net with name "A2B" already exists
+Add Net: Net with name "S2A" already exists
+Add Net: Net with name "S2B" already exists

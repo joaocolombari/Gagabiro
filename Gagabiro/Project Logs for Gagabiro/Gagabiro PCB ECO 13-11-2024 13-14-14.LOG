@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Q2 Old Footprint=TO254P1009X445X1985-3_heatsink New Footprint=TO254P1009X445X1985-3
+Change Component Footprint: Designator=Q4 Old Footprint=TO254P1009X445X1985-3_heatsink New Footprint=TO254P1009X445X1985-3
+Change Component Comment : Designator=Q2 Old Comment=TIP50_heatsink New Comment=TIP50
+Change Component Comment : Designator=Q4 Old Comment=TIP50_heatsink New Comment=TIP50

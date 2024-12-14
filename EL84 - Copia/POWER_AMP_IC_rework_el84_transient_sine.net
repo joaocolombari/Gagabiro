@@ -1,0 +1,94 @@
+* C:\Users\alunos\Desktop\Gagabiro\EL84 - Copia\POWER_AMP_IC_rework_el84_transient_sine_transformer.asc
+V4 V_PP 0 300
+V5 V_in 0 SINE(0 0.447 1k) AC 1
+V1 V_grid 0 -13
+R28 V_grid N004 220k
+R29 N016 V_grid 220k
+R32 N017 N016 1k
+R33 N005 N004 1k
+C5 N016 N008 1µ
+C6 N004 N003 1µ
+Rload 0 out 8
+XU2 N001 N002 N005 0 EL84
+XU3 N019 N015 N017 0 EL84
+Q1 N014 N022 N024 0 BC847C
+Q4 N022 N024 0 0 BC847C
+R1 0 N024 70
+R2 N022 V_PP 150k
+R3 0 N010 220k
+R4 N008 V_PP 22k
+R5 N003 V_PP 22k
+XU6 N008 N011 N014 12AU7
+XU7 N003 N012 N014 12AU7
+C1 N010 N009 1µ
+R8 N010 N011 1k
+R9 0 N012 1k
+R14 N020 N021 1k
+R15 N020 0 1Meg
+R16 N006 N007 1k
+R17 N023 0 820
+R18 N009 N006 820
+XU8 V_PP N007 N009 12AU7
+XU9 N006 N021 N023 12AU7
+R6 N009 N018 82k
+C2 N018 N020 10n
+R7 V_in N018 10k
+C3 N023 0 22µ
+L1 N002 N001 {PRIML*.09}
+L2 V_PP N002 {PRIML*.04}
+L3 N015 V_PP {PRIML*.04}
+L4 N019 N015 {PRIML*.09}
+C4 N001 N019 613p
+R10 out V_PP 200Meg
+R11 0 V_PP 200Meg
+R12 out 0 200Meg
+L5 out N013 {PRIML*LRATIO/4}
+L6 N013 0 {PRIML*LRATIO/4}
+.model NPN NPN
+.model PNP PNP
+.model BC847C NPN(IS=20f VAF=65 BF=360 IKF=1.3 XTB=1.5 BR=5 CJC=20p CJE=8p TR=100n TF=600p RB=10 RC=3 RE=1 Vceo=32 Icrating=200m mfg=Rohm)
+
+.OPTIONS numdgt=7
+.OPTIONS plotwinsize=0
+.four 1k 10 V(out)
+.tran 0 2 1.99 10u
+.meas tran output_power AVG I(RLoad)*v(out)
+
+.PARAM PRIML=535     ; TOTAL PRIMARY L (FROM SPECS)
+.PARAM LRATIO={5/5878} ; INDUCTANCE RATIO: (5 OHMS)/(PRIMARY)
+.PARAM QFCTR=144610     ; Q-FACTOR: PRIMARY SHUNT L/LEAKAGE L
+KALL L1 L2 L3 L4 L5 L6 {1-1/(2*144610)} ; {1-1/(2*144610)} AWESOME!
+
+
+.SUBCKT EL84 A S G K
+Eat             at              0               VALUE={0.636*ATAN(V(A,K)/15)}
+Egs             gs              0               VALUE={LIMIT{V(S,K)/19+V(G,K)+V(A,K)/1400,0,1E6}}
+Egs2            gs2             0               VALUE={PWRS(V(gs),1.5)}
+Ecath           cc              0               VALUE={V(gs2)*V(at)}
+Ga              A               K               VALUE={3.2E-3*V(cc)}
+Escrn           sc              0               VALUE={V(gs2)*(1.1-V(at))}
+Gs              S               K               VALUE={2.0E-3*V(sc)*LIMIT{V(S,K),0,10}/10}
+Gg              G               K               VALUE={PWR(LIMIT{V(G,K)+1,0,1E6},1.5)*50E-6}
+Cg1             G               K               10.8p
+Cak             A               K               6.5p
+Cg1a            G               A               0.5p
+.ENDS
+
+.SUBCKT 12AU7 1 2 3  ; P G C; NEW MODEL
++ PARAMS: MU=21.5 EX=1.3 KG1=1180 KP=84 KVB=300 RGI=2000
++ CCG=2.3P  CGP=2.2P CCP=1.0P  ; ADD .7PF TO ADJACENT PINS; .5 TO OTHERS.
+E1 7 0 VALUE=
++{V(1,3)/KP*LOG(1+EXP(KP*(1/MU+V(2,3)/SQRT(KVB+V(1,3)*V(1,3)))))}
+RE1 7 0 1G
+G1 1 3 VALUE={(PWR(V(7),EX)+PWRS(V(7),EX))/KG1}
+RCP 1 3 1G    ; TO AVOID FLOATING NODES IN MU-FOLLOWER
+C1 2 3 {CCG}  ; CATHODE-GRID; WAS 1.6P
+C2 2 1 {CGP}  ; GRID-PLATE; WAS 1.5P
+C3 1 3 {CCP}  ; CATHODE-PLATE; WAS 0.5P
+D3 5 3 DX     ; FOR GRID CURRENT
+R1 2 5 {RGI}  ; FOR GRID CURRENT
+.MODEL DX D(IS=1N RS=1 CJO=10PF TT=1N)
+.ENDS
+
+.backanno
+.end

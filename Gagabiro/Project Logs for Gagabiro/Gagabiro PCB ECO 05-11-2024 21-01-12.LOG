@@ -1,0 +1,108 @@
+Change Component Designator: OldDesignator=C1A NewDesignator=C10
+Change Component Designator: OldDesignator=C2A NewDesignator=C15
+Change Component Designator: OldDesignator=C3A NewDesignator=C14
+Change Component Designator: OldDesignator=C5A NewDesignator=C11
+Change Component Designator: OldDesignator=C6A NewDesignator=C12
+Change Component Designator: OldDesignator=C8A NewDesignator=C13
+Change Component Designator: OldDesignator=Q1A NewDesignator=Q5
+Change Component Designator: OldDesignator=Q2A NewDesignator=Q6
+Change Component Designator: OldDesignator=R1A NewDesignator=R27
+Change Component Designator: OldDesignator=R2A NewDesignator=R34
+Change Component Designator: OldDesignator=R3A NewDesignator=R35
+Change Component Designator: OldDesignator=R4A NewDesignator=R28
+Change Component Designator: OldDesignator=R5A NewDesignator=R29
+Change Component Designator: OldDesignator=R6A NewDesignator=R30
+Change Component Designator: OldDesignator=R7A NewDesignator=R31
+Change Component Designator: OldDesignator=R8A NewDesignator=R32
+Change Component Designator: OldDesignator=R9A NewDesignator=R33
+Change Component Designator: OldDesignator=R10A NewDesignator=R38
+Change Component Designator: OldDesignator=R12A NewDesignator=R37
+Change Component Designator: OldDesignator=R13A NewDesignator=R36
+Change Component Designator: OldDesignator=R15A NewDesignator=R39
+Change Component Designator: OldDesignator=R16A NewDesignator=R40
+Change Component Designator: OldDesignator=RV1A NewDesignator=RV1
+Change Component Designator: OldDesignator=RV2A NewDesignator=RV2
+Change Component Designator: OldDesignator=RV3A NewDesignator=RV3
+Change Component Designator: OldDesignator=TP1A NewDesignator=TP1
+Change Component Designator: OldDesignator=TP2A NewDesignator=TP2
+Change Component Designator: OldDesignator=TP3A NewDesignator=TP3
+Change Component Designator: OldDesignator=TP4A NewDesignator=TP4
+Change Component Designator: OldDesignator=V1A NewDesignator=V1
+Change Component Designator: OldDesignator=V2A NewDesignator=V2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=R27-1
+Added Pin To Net: NetName=NetC10_1 Pin=V2-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=R28-1
+Added Pin To Net: NetName=NetC11_1 Pin=V2-6
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R33-2
+Added Pin To Net: NetName=NetC12_1 Pin=RV2-2
+Added Pin To Net: NetName=NetC12_1 Pin=RV2-3
+Added Pin To Net: NetName=NetC12_1 Pin=V1-8
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R30-2
+Added Pin To Net: NetName=NetC12_2 Pin=R32-2
+Added Pin To Net: NetName=NetC12_2 Pin=TP1-1
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=R35-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=R37-1
+Added Pin To Net: NetName=NetC14_1 Pin=R38-2
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=R34-1
+Added Pin To Net: NetName=NetC14_2 Pin=R35-2
+Added Pin To Net: NetName=NetC14_2 Pin=TP2-1
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_P Pin=C15-P
+Added Pin To Net: NetName=NetC15_P Pin=R39-2
+Added Pin To Net: NetName=NetC15_P Pin=V1-3
+Added Net: Name=NetC15_P
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R40-2
+Added Pin To Net: NetName=NetQ5_1 Pin=TP4-1
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_2 Pin=RV3-2
+Added Net: Name=NetQ5_2
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R36-1
+Added Pin To Net: NetName=NetQ5_3 Pin=TP3-1
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=R33-1
+Added Pin To Net: NetName=NetR29_1 Pin=V1-1
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=V1-7
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetR30_1 Pin=V2-2
+Added Net: Name=NetR30_1
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=V2-7
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=NetR34_2 Pin=RV2-1
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=NetR37_2 Pin=V1-2
+Added Net: Name=NetR37_2
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=RV1-3
+Added Net: Name=NetR40_1
+Added Pin To Net: NetName=NetRV3_1 Pin=RV3-1
+Added Pin To Net: NetName=NetRV3_1 Pin=V2-8
+Added Net: Name=NetRV3_1
+Added Pin To Net: NetName=NetRV3_3 Pin=RV3-3
+Added Pin To Net: NetName=NetRV3_3 Pin=V2-3
+Added Net: Name=NetRV3_3
+Added Class: Name=Gagabiro_main

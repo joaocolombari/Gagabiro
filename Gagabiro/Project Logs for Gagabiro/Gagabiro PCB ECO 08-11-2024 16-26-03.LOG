@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=A1 Pin=U1A-3
+Added Pin To Net: NetName=A1 Pin=U1B-3
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=U2A-3
+Added Pin To Net: NetName=A2 Pin=U2B-3
+Added Net: Name=A2
+Added Pin To Net: NetName=S1 Pin=U1A-4
+Added Pin To Net: NetName=S1 Pin=U1B-4
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=U2A-4
+Added Pin To Net: NetName=S2 Pin=U2B-4
+Added Net: Name=S2
+Added Class: Name=A1[1..2]
+Added Class: Name=A2[1..2]
+Added Class: Name=S1[1..2]
+Added Class: Name=S2[1..2]

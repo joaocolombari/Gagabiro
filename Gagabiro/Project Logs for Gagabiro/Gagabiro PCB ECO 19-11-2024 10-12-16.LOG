@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=6V3+B Pin=P3-1
+Added Pin To Net: NetName=6V3-A Pin=P3-2
+Added Pin To Net: NetName=6V3+B Pin=R45-2
+Added Pin To Net: NetName=6V3-A Pin=R46-2
+Added Pin To Net: NetName=6V3+B Pin=U1A-2
+Added Pin To Net: NetName=6V3-A Pin=U1B-7
+Added Pin To Net: NetName=6V3+B Pin=U2A-2
+Added Pin To Net: NetName=6V3-A Pin=U2B-7
+Added Pin To Net: NetName=6V3+B Pin=V1A-4
+Added Pin To Net: NetName=6V3+B Pin=V1A-5
+Added Pin To Net: NetName=6V3-A Pin=V1B-9
+Added Pin To Net: NetName=6V3+B Pin=V2A-4
+Added Pin To Net: NetName=6V3+B Pin=V2A-5
+Added Pin To Net: NetName=6V3-A Pin=V2B-9
+Change Net Name : Old Net Name=6V3+B New Net Name=6V3+
+Change Net Name : Old Net Name=6V3-A New Net Name=6V3-

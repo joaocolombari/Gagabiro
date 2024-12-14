@@ -1,0 +1,6 @@
+Change Footprint: Cannot match pads with new footprint in component : Footprint:12A_7
+Change Footprint: Cannot match pads with new footprint in component :V1A Footprint:12A_7
+Change Footprint: Cannot match pads with new footprint in component :V1B Footprint:12A_7
+Change Footprint: Cannot match pads with new footprint in component :V2A Footprint:12A_7
+Change Component Designator: OldDesignator= NewDesignator=V2B
+Added Member To Class: ClassName=U_Gagabiro_main2 Member=Component V2B (V2A) 12AU7
