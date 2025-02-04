@@ -103,7 +103,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SXJHOCVN
 
 [Document4]
-DocumentPath=..\..\Tiresias\Gagabiro_power_supply.SchDoc
+DocumentPath=Gagabiro_power_supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
