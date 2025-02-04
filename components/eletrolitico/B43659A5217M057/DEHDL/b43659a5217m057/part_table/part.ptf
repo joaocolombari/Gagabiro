@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'B43659A5217M057'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TDK", "B43659A5217M057" (!) = "", "B43659A5217M057", "Other", "871-B43659A5217M057", "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B43659A5217M057?qs=Z%252BL2brAPG1LcXCgV6MqERQ%3D%3D", "Aluminum Electrolytic Capacitors - Snap In 450V, 210uF (M), d25,4x25 mm", "https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/snap-in/data_sheet/20/30/db/aec/b43659.pdf?ref_disty=mouser", "27.5 mm"
+END_PART
+
+END.

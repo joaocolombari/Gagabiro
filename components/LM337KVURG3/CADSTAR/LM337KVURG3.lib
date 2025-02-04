@@ -1,0 +1,16 @@
+.LM337KVURG3 :1 ;3 Pin 1.5A Adjustable Negative Voltage Regulator
+LM337KVURG3
+*STM IC
+*NGS
+*PLB 1="ADJUSTMENT" 2="INPUT" 3="OUTPUT"
+*MXP 3
+*DFN LM337KVURG3
+~!Mouser Part Number (595-LM337KVURG3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM337KVURG3?qs=iSMark9AYDXYOGB3Dr0rVg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LM337KVURG3)
+~!Link Datasheet (http://www.ti.com/lit/gpn/lm337)
+~!Height (2.65mm)
+~!3D_Model (LM337KVURG3)
+LM337KVURG3
+1.1!U 2.1!U 3.1!U 

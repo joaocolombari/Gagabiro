@@ -1,0 +1,18 @@
+Added Component: Designator=P5(MOLEX_1726480102)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S2B-PH-SM4-TB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3A_2 Pin=P2-1
+Added Pin To Net: NetName=NetC3B_2 Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Change Net Name : Old Net Name=NetC3A_2 New Net Name=MAIDA_OUT1
+Change Net Name : Old Net Name=NetC3B_2 New Net Name=MAIDA_OUT2
+Added Class: Name=MAIDA_OUT[1..2]
+Added Member To Class: ClassName=U_Gagabiro_supply_interface Member=Component P5 1726480102
+Added Member To Class: ClassName=MAIDA_IN[1..2] Member=Element[0]: MAIDA_IN

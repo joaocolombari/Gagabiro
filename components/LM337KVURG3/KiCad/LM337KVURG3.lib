@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LM337KVURG3
+#/383853/1382744/2.50/3/0/Integrated Circuit
+DEF LM337KVURG3 IC 0 30 Y Y 1 F N
+F0 "IC" 1350 300 50 H V L CNN
+F1 "LM337KVURG3" 1350 200 50 H V L CNN
+F2 "LM337KVURG3" 1350 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/lm337" 1350 0 50 H I L CNN
+F4 "3 Pin 1.5A Adjustable Negative Voltage Regulator" 1350 -100 50 H I L CNN "Description"
+F5 "2.65" 1350 -200 50 H I L CNN "Height"
+F6 "595-LM337KVURG3" 1350 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM337KVURG3?qs=iSMark9AYDXYOGB3Dr0rVg%3D%3D" 1350 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1350 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LM337KVURG3" 1350 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ADJUSTMENT 1 0 0 200 R 50 50 0 0 P
+X INPUT 2 1500 0 200 L 50 50 0 0 P
+X OUTPUT 3 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1300 100 1300 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

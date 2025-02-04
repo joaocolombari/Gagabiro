@@ -1,0 +1,134 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "B43659A5217M057"
+   (description "Aluminum Electrolytic Capacitors - Snap In 450V, 210uF (M), d25,4x25 mm")
+   (family "CAP")
+   (package "B43659A5217M057")
+   (attribute "Datasheet Link" "https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/snap-in/data_sheet/20/30/db/aec/b43659.pdf?ref_disty=mouser")
+   (attribute "Geometry.Height" "27.5mm")
+   (attribute "Mouser Part Number" "871-B43659A5217M057")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B43659A5217M057?qs=Z%252BL2brAPG1LcXCgV6MqERQ%3D%3D")
+   (attribute "Manufacturer_Name" "TDK")
+   (attribute "Manufacturer_Part_Number" "B43659A5217M057")
+   (gate
+    (symbol "B43659A5217M057")
+    (pin "+" 1 PS)
+    (pin "-" 2 PS)
+   )
+  )
+  (symbol "B43659A5217M057"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100) (pt 230 -100) (pt 230 100) (pt 200 100) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 180 50) (pt 140 50))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 160 70) (pt 160 30))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 0) (pt 400 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 300 100) (pt 300 -100) (pt 270 -100) (pt 270 100) (pt 300 100))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "B43659A5217M057"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -8.7 13.7)
+      (pt 18.7 13.7)
+      (pt 18.7 -13.7)
+      (pt -8.7 -13.7)
+      (pt -8.7 13.7))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -7.7 0)
+      (arc (pt -7.700 0.000) (pt -7.700 -12.700) (pt 17.700 12.700) (start 180.0) (sweep -180.0))
+      (pt 17.7 0)
+      (arc (pt 17.700 0.000) (pt -7.700 -12.700) (pt 17.700 12.700) (start 180.0) (sweep .0))
+      (pt -7.7 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -7.7 0)
+      (arc (pt -7.700 0.000) (pt -7.700 -12.700) (pt 17.700 12.700) (start 180.0) (sweep -180.0))
+      (pt 17.7 0)
+      (arc (pt 17.700 0.000) (pt -7.700 -12.700) (pt 17.700 12.700) (start 180.0) (sweep .0))
+      (pt -7.7 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -8.2 0)
+      (arc (pt -8.200 0.000) (pt -8.300 -0.050) (pt -8.200 0.050) (start 180.0) (sweep .0))
+      (pt -8.3 0)
+      (arc (pt -8.300 0.000) (pt -8.300 -0.050) (pt -8.200 0.050) (start 180.0) (sweep -180.0))
+      (pt -8.2 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 10.000 0.000) (padstack 2))
+   (padstack 0
+    (hole 2)
+    (plated true)
+    (pad (layer TCOP) (square 3.000))
+    (pad (layer INNER) (round 3.000))
+    (pad (layer BCOP) (square 3.000))
+   )
+   (padstack 2
+    (hole 2)
+    (plated true)
+    (pad (layer TCOP) (round 3.000))
+    (pad (layer INNER) (round 3.000))
+    (pad (layer BCOP) (round 3.000))
+   )
+   (model "B43659A5217M057.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

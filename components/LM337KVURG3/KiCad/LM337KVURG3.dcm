@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM337KVURG3
+D 3 Pin 1.5A Adjustable Negative Voltage Regulator
+K
+F http://www.ti.com/lit/gpn/lm337
+$ENDCMP
+#
+#End Doc Library

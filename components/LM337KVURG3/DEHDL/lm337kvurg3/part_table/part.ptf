@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM337KVURG3'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LM337KVURG3" (!) = "", "LM337KVURG3", "Other", "595-LM337KVURG3", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM337KVURG3?qs=iSMark9AYDXYOGB3Dr0rVg%3D%3D", "3 Pin 1.5A Adjustable Negative Voltage Regulator", "http://www.ti.com/lit/gpn/lm337", "2.65 mm"
+END_PART
+
+END.

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_19283555"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-30-03:34:57)
+    (utime 2024-04-30-03:34:57)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "B43659A5217M057")
+)
+
+
+(pinAssign "ECS_19283555"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-30-03:34:57)
+    (utime 2024-04-30-03:34:57)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_19283555")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "B43659A5217M057")
+)
+
+
+(part "B43659A5217M057"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-30-03:34:57)
+    (utime 2024-04-30-03:34:57)
+    (packageRef "B43659A5217M057")
+    (pinAssignRef "ECS_19283555")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Aluminum Electrolytic Capacitors - Snap In 450V, 210uF (M), d25,4x25 mm")
+    (property "Mouser_Part_Number" "871-B43659A5217M057")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B43659A5217M057?qs=Z%252BL2brAPG1LcXCgV6MqERQ%3D%3D")
+    (property "Manufacturer_Name" "TDK")
+    (property "Manufacturer_Part_Number" "B43659A5217M057")
+    (property "Datasheet_Link" "https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/snap-in/data_sheet/20/30/db/aec/b43659.pdf?ref_disty=mouser")
+    (property "compAreaTopHeight" 27.5)
+)
+
+

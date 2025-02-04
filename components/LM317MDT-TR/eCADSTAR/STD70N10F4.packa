@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LM317MDT-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-02-15:56:37)
+    (mountForm default
+        (footprintRef "STD70N10F4")
+        (spec "System")
+    )
+)

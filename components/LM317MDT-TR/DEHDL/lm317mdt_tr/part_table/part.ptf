@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM317MDT_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "LM317MDT-TR" (!) = "", "STD70N10F4", "Other", "511-LM317MDT-TR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LM317MDT-TR?qs=y7Do%2FCs%252BtTfzGt4t316suA%3D%3D", "Linear Voltage Regulators 1.2-37V Adj Positive", "https://www.st.com/resource/en/datasheet/lm317m.pdf", "2.4 mm"
+END_PART
+
+END.

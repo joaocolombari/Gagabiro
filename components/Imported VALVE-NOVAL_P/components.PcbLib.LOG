@@ -1,0 +1,16 @@
+Importer Log Report
+Document: C:\Users\Public\Documents\Altium\Persephone\components
+    Section : Analyze Document from - C:\Users\Public\Documents\Altium\Persephone\components
+        Warning: Unknown layer F&B.Cu of layers.
+        Warning: Unknown layer F&B.Cu of layers.
+        Warning: Unknown layer F&B.Cu of layers.
+        Warning: Unknown layer F&B.Cu of layers.
+        Warning: Unknown layer F&B.Cu of layers.
+        Warning: Unknown layer F&B.Cu of layers.
+        Warning: Unknown layer F&B.Cu of layers.
+        Warning: Unknown layer F&B.Cu of layers.
+    EndSection
+    Section : Import Document - C:\Users\Public\Documents\Altium\Persephone\components\Imported VALVE-NOVAL_P\components.PcbLib
+        Section : Component REF** importing.
+        EndSection
+    EndSection

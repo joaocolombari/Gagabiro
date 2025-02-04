@@ -1,0 +1,39 @@
+PCAD Importer Log
+Project : 12AX7.LibPkg
+
+Section : C:\Users\Public\Documents\Altium\Persephone\components\12AX7.lia
+    Section : PCB Library - 12AX7.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 97
+            Warning - 1 : Skipping Token isVisible On Line 98
+            Warning - 1 : Skipping Token isVisible On Line 131
+            Warning - 1 : Skipping Token isVisible On Line 132
+            Warning - 1 : Skipping Token TRIODE_9A_A-1 On Line 147
+            Warning - 1 : Skipping Token TRIODE_9A_B-1 On Line 228
+            Warning - 1 : Skipping Token attachedSymbol On Line 297
+            Warning - 1 : Skipping Token attachedSymbol On Line 298
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 12AX7.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token multiLayer On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 129
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 137
+            Warning - 1 : Skipping Token layerContents On Line 141
+        EndSection
+
+        Section : Generating SCH Library - 12AX7.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "B43659A5217M057"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-30-03:34:57)
+    (mountForm default
+        (footprintRef "B43659A5217M057")
+        (spec "System")
+    )
+)

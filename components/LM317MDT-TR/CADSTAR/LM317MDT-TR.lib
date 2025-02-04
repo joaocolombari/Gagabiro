@@ -1,0 +1,16 @@
+.LM317MDT-TR :1 ;Linear Voltage Regulators 1.2-37V Adj Positive
+STD70N10F4
+*STM IC
+*NGS
+*PLB 1="ADJUST" 2="VOUT" 3="VIN"
+*MXP 3
+*DFN LM317MDT-TR
+~!Mouser Part Number (511-LM317MDT-TR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LM317MDT-TR?qs=y7Do%2FCs%252BtTfzGt4t316suA%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (LM317MDT-TR)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/lm317m.pdf)
+~!Height (2.4mm)
+~!3D_Model (LM317MDT-TR)
+LM317MDT-TR
+1.1!U 2.1!U 3.1!U 

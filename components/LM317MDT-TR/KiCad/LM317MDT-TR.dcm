@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM317MDT-TR
+D Linear Voltage Regulators 1.2-37V Adj Positive
+K
+F https://www.st.com/resource/en/datasheet/lm317m.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=MAIDA_IN[1..2] Member=MAIDA_IN2
+Added Pin To Net: NetName=MAIDA_IN2 Pin=C4A-2
+Added Pin To Net: NetName=MAIDA_IN2 Pin=C5-P
+Added Pin To Net: NetName=MAIDA_IN2 Pin=D4-C
+Added Pin To Net: NetName=MAIDA_IN2 Pin=D6-C
+Added Pin To Net: NetName=MAIDA_IN2 Pin=Q1A-2
+Added Pin To Net: NetName=MAIDA_IN2 Pin=Q2A-2
+Added Pin To Net: NetName=MAIDA_IN2 Pin=R1A-1
+Change Net Name : Old Net Name=MAIDA_IN2 New Net Name=MAIDA_IN1

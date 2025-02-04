@@ -1,0 +1,565 @@
+Added Component: Designator=*_U_Gagabiro_supply_maida1(TO92127P495H495-3)
+Added Component: Designator=*_U_Gagabiro_supply_maida2(TO92127P495H495-3)
+Added Component: Designator=C1_U_Gagabiro_supply_maida1(CAP_panassonic_1u_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_Gagabiro_supply_maida2(CAP_panassonic_1u_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_Gagabiro_supply_maida1(CAP_panassonic_1u_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_Gagabiro_supply_maida2(CAP_panassonic_1u_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_Gagabiro_supply_maida1(CAP_panassonic_1u_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_Gagabiro_supply_maida2(CAP_panassonic_1u_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_Gagabiro_supply_maida1(CAP_panassonic_1u_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_Gagabiro_supply_maida2(CAP_panassonic_1u_450V)
+Add component (AddParameter): Name = "Part Number"; Value = "CMICA_47PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPPRD500W50D630H1120_stand_25x50)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-HD1C221B/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-HD1C221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEU-HD1C221B/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-HD1C221B/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_Gagabiro_supply_maida1(DIOAD1036W78L463D272)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4735A/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N4735A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-41 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4735A/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_Gagabiro_supply_maida2(DIOAD1036W78L463D272)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4735A/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N4735A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-41 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4735A/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2_U_Gagabiro_supply_maida1(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4001G/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N4001G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-41-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1N4001G/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4001G/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2_U_Gagabiro_supply_maida2(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4001G/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N4001G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-41-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1N4001G/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4001G/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4001G/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N4001G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-41-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1N4001G/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4001G/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4001G/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N4001G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-41-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1N4001G/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4001G/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4001G/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N4001G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-41-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1N4001G/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4001G/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(DIOAD1036W78L470D235)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4001G/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N4001G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-41-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1N4001G/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4001G/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P1(MOLEX_1726480102)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S2B-PH-SM4-TB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(MOLEX_1726480102)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S2B-PH-SM4-TB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P3(MOLEX_1726480102)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S2B-PH-SM4-TB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P4(MOLEX_1726480102)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S2B-PH-SM4-TB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1_U_Gagabiro_supply_maida1(TO254P1009X445X1985-3)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TIP50/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TIP50/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP50/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1_U_Gagabiro_supply_maida2(TO254P1009X445X1985-3)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TIP50/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TIP50/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP50/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2_U_Gagabiro_supply_maida1(TO254P1009X445X1985-3_heatsink)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TIP50/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TIP50/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP50/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2_U_Gagabiro_supply_maida2(TO254P1009X445X1985-3_heatsink)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TIP50/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TIP50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TIP50/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TIP50/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=R4_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K5"; VariantName = "[No Variations]"
+Added Component: Designator=R4_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K5"; VariantName = "[No Variations]"
+Added Component: Designator=R5_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R5_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R6_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2R7"; VariantName = "[No Variations]"
+Added Component: Designator=R6_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2R7"; VariantName = "[No Variations]"
+Added Component: Designator=R7_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R7_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R8_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "36K"; VariantName = "[No Variations]"
+Added Component: Designator=R8_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "36K"; VariantName = "[No Variations]"
+Added Component: Designator=R9_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "36K"; VariantName = "[No Variations]"
+Added Component: Designator=R9_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "36K"; VariantName = "[No Variations]"
+Added Component: Designator=R10_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R10_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R11_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R11_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R12_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "36K"; VariantName = "[No Variations]"
+Added Component: Designator=R12_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "36K"; VariantName = "[No Variations]"
+Added Component: Designator=R13_U_Gagabiro_supply_maida1(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "36K"; VariantName = "[No Variations]"
+Added Component: Designator=R13_U_Gagabiro_supply_maida2(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "36K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_2W_vertical)
+Add component (AddParameter): Name = "Author"; Value = "colombari"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TO228P991X255-3N
+Add Component: Footprint Not Found TO228P991X255-3N
+Added Pin To Net: NetName=6V3+ Pin=P3-1
+Added Pin To Net: NetName=6V3+ Pin=P4-1
+Added Pin To Net: NetName=6V3+ Pin=R14-2
+Added Net: Name=6V3+
+Added Pin To Net: NetName=6V3- Pin=P3-2
+Added Pin To Net: NetName=6V3- Pin=P4-2
+Added Pin To Net: NetName=6V3- Pin=R15-2
+Added Net: Name=6V3-
+Added Pin To Net: NetName=GND Pin=C1_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=GND Pin=C1_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=GND Pin=C2_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=GND Pin=C2_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=GND Pin=C3_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=GND Pin=C3_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=GND Pin=C4_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=GND Pin=C4_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=GND Pin=C5-N
+Added Pin To Net: NetName=GND Pin=D3-A
+Added Pin To Net: NetName=GND Pin=D5-A
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=R10_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=GND Pin=R10_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=GND Pin=R11_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=GND Pin=R11_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=GND Pin=R12_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=GND Pin=R12_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=GND Pin=R13_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=GND Pin=R13_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida1_2 Pin=*_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida1_2 Pin=R4_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida1_2 Pin=R7_U_Gagabiro_supply_maida1-2
+Added Net: Name=Net*_U_Gagabiro_supply_maida1_2
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida1_3 Pin=*_U_Gagabiro_supply_maida1-3
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida1_3 Pin=R5_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida1_3 Pin=R8_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida1_3 Pin=R9_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida1_3 Pin=R10_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida1_3 Pin=R11_U_Gagabiro_supply_maida1-2
+Added Net: Name=Net*_U_Gagabiro_supply_maida1_3
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida2_2 Pin=*_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida2_2 Pin=R4_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida2_2 Pin=R7_U_Gagabiro_supply_maida2-2
+Added Net: Name=Net*_U_Gagabiro_supply_maida2_2
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida2_3 Pin=*_U_Gagabiro_supply_maida2-3
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida2_3 Pin=R5_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida2_3 Pin=R8_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida2_3 Pin=R9_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida2_3 Pin=R10_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=Net*_U_Gagabiro_supply_maida2_3 Pin=R11_U_Gagabiro_supply_maida2-2
+Added Net: Name=Net*_U_Gagabiro_supply_maida2_3
+Added Pin To Net: NetName=NetC1_U_Gagabiro_supply_maida1_2 Pin=C1_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=NetC1_U_Gagabiro_supply_maida1_2 Pin=R6_U_Gagabiro_supply_maida1-1
+Added Net: Name=NetC1_U_Gagabiro_supply_maida1_2
+Added Pin To Net: NetName=NetC1_U_Gagabiro_supply_maida2_2 Pin=C1_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=NetC1_U_Gagabiro_supply_maida2_2 Pin=R6_U_Gagabiro_supply_maida2-1
+Added Net: Name=NetC1_U_Gagabiro_supply_maida2_2
+Added Pin To Net: NetName=NetC2_U_Gagabiro_supply_maida1_2 Pin=C2_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=NetC2_U_Gagabiro_supply_maida1_2 Pin=D2_U_Gagabiro_supply_maida1-A
+Added Pin To Net: NetName=NetC2_U_Gagabiro_supply_maida1_2 Pin=R7_U_Gagabiro_supply_maida1-1
+Added Net: Name=NetC2_U_Gagabiro_supply_maida1_2
+Added Pin To Net: NetName=NetC2_U_Gagabiro_supply_maida2_2 Pin=C2_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=NetC2_U_Gagabiro_supply_maida2_2 Pin=D2_U_Gagabiro_supply_maida2-A
+Added Pin To Net: NetName=NetC2_U_Gagabiro_supply_maida2_2 Pin=R7_U_Gagabiro_supply_maida2-1
+Added Net: Name=NetC2_U_Gagabiro_supply_maida2_2
+Added Pin To Net: NetName=NetC3_U_Gagabiro_supply_maida1_2 Pin=C3_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=NetC3_U_Gagabiro_supply_maida1_2 Pin=D1_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=NetC3_U_Gagabiro_supply_maida1_2 Pin=D2_U_Gagabiro_supply_maida1-C
+Added Pin To Net: NetName=NetC3_U_Gagabiro_supply_maida1_2 Pin=R4_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=NetC3_U_Gagabiro_supply_maida1_2 Pin=R5_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=NetC3_U_Gagabiro_supply_maida1_2 Pin=R6_U_Gagabiro_supply_maida1-2
+Added Net: Name=NetC3_U_Gagabiro_supply_maida1_2
+Added Pin To Net: NetName=NetC3_U_Gagabiro_supply_maida2_2 Pin=C3_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=NetC3_U_Gagabiro_supply_maida2_2 Pin=D1_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=NetC3_U_Gagabiro_supply_maida2_2 Pin=D2_U_Gagabiro_supply_maida2-C
+Added Pin To Net: NetName=NetC3_U_Gagabiro_supply_maida2_2 Pin=R4_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=NetC3_U_Gagabiro_supply_maida2_2 Pin=R5_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=NetC3_U_Gagabiro_supply_maida2_2 Pin=R6_U_Gagabiro_supply_maida2-2
+Added Net: Name=NetC3_U_Gagabiro_supply_maida2_2
+Added Pin To Net: NetName=NetC4_U_Gagabiro_supply_maida1_2 Pin=C4_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=NetC4_U_Gagabiro_supply_maida1_2 Pin=Q1_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=NetC4_U_Gagabiro_supply_maida1_2 Pin=Q2_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=NetC4_U_Gagabiro_supply_maida1_2 Pin=R1_U_Gagabiro_supply_maida1-1
+Added Net: Name=NetC4_U_Gagabiro_supply_maida1_2
+Added Pin To Net: NetName=NetC4_U_Gagabiro_supply_maida2_2 Pin=C4_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=NetC4_U_Gagabiro_supply_maida2_2 Pin=Q1_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=NetC4_U_Gagabiro_supply_maida2_2 Pin=Q2_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=NetC4_U_Gagabiro_supply_maida2_2 Pin=R1_U_Gagabiro_supply_maida2-1
+Added Net: Name=NetC4_U_Gagabiro_supply_maida2_2
+Added Pin To Net: NetName=NetC5_P Pin=C5-P
+Added Pin To Net: NetName=NetC5_P Pin=D4-C
+Added Pin To Net: NetName=NetC5_P Pin=D6-C
+Added Net: Name=NetC5_P
+Added Pin To Net: NetName=NetD1_U_Gagabiro_supply_maida1_1 Pin=D1_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=NetD1_U_Gagabiro_supply_maida1_1 Pin=Q1_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=NetD1_U_Gagabiro_supply_maida1_1 Pin=R1_U_Gagabiro_supply_maida1-2
+Added Net: Name=NetD1_U_Gagabiro_supply_maida1_1
+Added Pin To Net: NetName=NetD1_U_Gagabiro_supply_maida2_1 Pin=D1_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=NetD1_U_Gagabiro_supply_maida2_1 Pin=Q1_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=NetD1_U_Gagabiro_supply_maida2_1 Pin=R1_U_Gagabiro_supply_maida2-2
+Added Net: Name=NetD1_U_Gagabiro_supply_maida2_1
+Added Pin To Net: NetName=NetD3_C Pin=D3-C
+Added Pin To Net: NetName=NetD3_C Pin=D4-A
+Added Pin To Net: NetName=NetD3_C Pin=P1-1
+Added Net: Name=NetD3_C
+Added Pin To Net: NetName=NetD5_C Pin=D5-C
+Added Pin To Net: NetName=NetD5_C Pin=D6-A
+Added Pin To Net: NetName=NetD5_C Pin=P1-2
+Added Net: Name=NetD5_C
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetQ1_U_Gagabiro_supply_maida1_3 Pin=Q1_U_Gagabiro_supply_maida1-3
+Added Pin To Net: NetName=NetQ1_U_Gagabiro_supply_maida1_3 Pin=Q2_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=NetQ1_U_Gagabiro_supply_maida1_3 Pin=R2_U_Gagabiro_supply_maida1-2
+Added Net: Name=NetQ1_U_Gagabiro_supply_maida1_3
+Added Pin To Net: NetName=NetQ1_U_Gagabiro_supply_maida2_3 Pin=Q1_U_Gagabiro_supply_maida2-3
+Added Pin To Net: NetName=NetQ1_U_Gagabiro_supply_maida2_3 Pin=Q2_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=NetQ1_U_Gagabiro_supply_maida2_3 Pin=R2_U_Gagabiro_supply_maida2-2
+Added Net: Name=NetQ1_U_Gagabiro_supply_maida2_3
+Added Pin To Net: NetName=NetQ2_U_Gagabiro_supply_maida1_3 Pin=Q2_U_Gagabiro_supply_maida1-3
+Added Pin To Net: NetName=NetQ2_U_Gagabiro_supply_maida1_3 Pin=R2_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=NetQ2_U_Gagabiro_supply_maida1_3 Pin=R3_U_Gagabiro_supply_maida1-2
+Added Net: Name=NetQ2_U_Gagabiro_supply_maida1_3
+Added Pin To Net: NetName=NetQ2_U_Gagabiro_supply_maida2_3 Pin=Q2_U_Gagabiro_supply_maida2-3
+Added Pin To Net: NetName=NetQ2_U_Gagabiro_supply_maida2_3 Pin=R2_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=NetQ2_U_Gagabiro_supply_maida2_3 Pin=R3_U_Gagabiro_supply_maida2-2
+Added Net: Name=NetQ2_U_Gagabiro_supply_maida2_3
+Added Pin To Net: NetName=NetR3_U_Gagabiro_supply_maida1_1 Pin=R3_U_Gagabiro_supply_maida1-1
+Added Net: Name=NetR3_U_Gagabiro_supply_maida1_1
+Added Pin To Net: NetName=NetR3_U_Gagabiro_supply_maida2_1 Pin=R3_U_Gagabiro_supply_maida2-1
+Added Net: Name=NetR3_U_Gagabiro_supply_maida2_1
+Added Pin To Net: NetName=NetR8_U_Gagabiro_supply_maida1_1 Pin=R8_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=NetR8_U_Gagabiro_supply_maida1_1 Pin=R9_U_Gagabiro_supply_maida1-1
+Added Pin To Net: NetName=NetR8_U_Gagabiro_supply_maida1_1 Pin=R12_U_Gagabiro_supply_maida1-2
+Added Pin To Net: NetName=NetR8_U_Gagabiro_supply_maida1_1 Pin=R13_U_Gagabiro_supply_maida1-2
+Added Net: Name=NetR8_U_Gagabiro_supply_maida1_1
+Added Pin To Net: NetName=NetR8_U_Gagabiro_supply_maida2_1 Pin=R8_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=NetR8_U_Gagabiro_supply_maida2_1 Pin=R9_U_Gagabiro_supply_maida2-1
+Added Pin To Net: NetName=NetR8_U_Gagabiro_supply_maida2_1 Pin=R12_U_Gagabiro_supply_maida2-2
+Added Pin To Net: NetName=NetR8_U_Gagabiro_supply_maida2_1 Pin=R13_U_Gagabiro_supply_maida2-2
+Added Net: Name=NetR8_U_Gagabiro_supply_maida2_1
+Added Class: Name=U_Gagabiro_supply_acdc_converter
+Added Class: Name=U_Gagabiro_supply_interface
+Added Class: Name=U_Gagabiro_supply_maida1
+Added Class: Name=U_Gagabiro_supply_maida2
+Added Class: Name=Gagabiro_supply_maida
+Added Rule: Name=Schematic Supply Nets

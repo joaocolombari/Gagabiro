@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM337KVURG3
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=3
+Version=1.3
+Released=2020-08-05 16:23:48
+Downloaded=2024-11-08 18:28:12
+3D=Y
